@@ -1,0 +1,20 @@
+{
+	"config" : 
+	[
+		"/home/user/.local/share/Steam/config"
+	],
+	"external_drivers" : 
+	[
+		"/media/Storage/Games/Non-Emulation/SteamLibrary/steamapps/common/MixedRealityVRDriver"
+	],
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"/home/user/.local/share/Steam/logs"
+	],
+	"runtime" : 
+	[
+		"/media/Storage/Games/Non-Emulation/SteamLibrary/steamapps/common/SteamVR"
+	],
+	"version" : 1
+}

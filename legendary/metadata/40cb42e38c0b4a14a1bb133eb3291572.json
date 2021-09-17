@@ -1,0 +1,4161 @@
+{
+  "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
+  "app_title": "Idle Champions of the Forgotten Realms",
+  "app_version": "IdleDragons40164Live",
+  "asset_info": {
+    "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
+    "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
+    "build_version": "IdleDragons40164Live",
+    "catalog_item_id": "48353a502e72433298f25827e03dbff0",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "7e508f543b05465abe3a935960eb70ac"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567wjWymifPzKkVgt3WIe5Guq35",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-15T12:56:50.481Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "IdleChampions"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "7e508f543b05465abe3a935960eb70ac"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Idle Champions of the Forgotten Realms",
+    "developer": "Codename Entertainment",
+    "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:25:02.575Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC001_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "91fdd0343c5546fe95d8ebab822f4f98",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "91fdd0343c5546fe95d8ebab822f4f98",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.300Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC001_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:26:46.445Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC098_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "13d22f4eac7940fb955c37dcd0596e26",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "13d22f4eac7940fb955c37dcd0596e26",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.263Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC098_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:28:04.857Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC099_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "e277384c8bd941a1aad8044a6a484abb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e277384c8bd941a1aad8044a6a484abb",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.320Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC099_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:28:17.132Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC002_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "3f63231017a742b88487c8856b12e85f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3f63231017a742b88487c8856b12e85f",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.270Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC002_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:28:43.253Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC097_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "e1d453aaad6541b085e3341295ff3246",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e1d453aaad6541b085e3341295ff3246",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.319Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC097_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:29:04.308Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC003_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "4cf73c36f76246fba8dd0c12f3270032",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4cf73c36f76246fba8dd0c12f3270032",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.286Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC003_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:29:54.768Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC028_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "c6509af02aa9478a997e55becc92671b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c6509af02aa9478a997e55becc92671b",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.315Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC028_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:30:54.758Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC004_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "e1254699a0554e729692b8e7f438da3d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e1254699a0554e729692b8e7f438da3d",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.319Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC004_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:31:03.161Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC027_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "5aac95a8f6d640a28b3262ab33f985f7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5aac95a8f6d640a28b3262ab33f985f7",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.288Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC027_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:31:26.624Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC026_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "398badcfbb82415e8faba535f50418ef",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "398badcfbb82415e8faba535f50418ef",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.269Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC026_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:31:54.989Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC005_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "715604701cd643c29e41f8136a37cd72",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "715604701cd643c29e41f8136a37cd72",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.293Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC005_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:32:43.039Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC006_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "0ecb0ea02c4c4eb482c5567a8dff2456",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0ecb0ea02c4c4eb482c5567a8dff2456",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.261Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC006_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:33:29.339Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC007_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "c0b13ce1eb494c3d9da3bf15718fe65d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c0b13ce1eb494c3d9da3bf15718fe65d",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.313Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC007_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:34:04.884Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC008_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "d8c82e6dc7a749cb989ad287f928883e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d8c82e6dc7a749cb989ad287f928883e",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.318Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC008_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:34:38.717Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC009_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "469486fb64d44cf689f1c70791845b1a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "469486fb64d44cf689f1c70791845b1a",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.272Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC009_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-02T21:35:03.815Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC010_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "1be0d76f594d4c5d839e5f2ab7f8a1ca",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1be0d76f594d4c5d839e5f2ab7f8a1ca",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.264Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC010_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:17:29.178Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC055_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "86ccefe804f34d53840a9ecd14397d7a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "86ccefe804f34d53840a9ecd14397d7a",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.297Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC055_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:17:45.512Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC056_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "3d0b7cb4c2794bb494685c30431ec7e3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3d0b7cb4c2794bb494685c30431ec7e3",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.269Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC056_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:18:01.809Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC057_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "0f6d4bb1535b493d93197c709c562262",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0f6d4bb1535b493d93197c709c562262",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.261Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC057_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:18:17.794Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC058_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "31510669008345eb9388ef8d8a9abfd5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "31510669008345eb9388ef8d8a9abfd5",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.266Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC058_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:18:43.755Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC059_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "d3fb756dee50496ab2152a655baa1a96",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d3fb756dee50496ab2152a655baa1a96",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.316Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC059_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:19:02.933Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC069_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "495aaf85a6bd4881a956998c4998be51",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "495aaf85a6bd4881a956998c4998be51",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.284Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC069_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:19:19.830Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC070_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "33576c22b80f421e80211caef7c028c2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "33576c22b80f421e80211caef7c028c2",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.268Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC070_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:19:38.254Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC071_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "d4638ce25cc84a6bbc88af3d49066922",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d4638ce25cc84a6bbc88af3d49066922",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.317Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC071_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:20:19.547Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC072_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "4bc621d2f71540248610834cf1407d81",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4bc621d2f71540248610834cf1407d81",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.285Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC072_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:20:38.120Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC073_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "9afa5fb5444d4972bac0132c55662e15",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9afa5fb5444d4972bac0132c55662e15",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.303Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC073_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:50:59.653Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC011_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "8f11cfeafdbf456f9ac61db272d03439",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8f11cfeafdbf456f9ac61db272d03439",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.299Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC011_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:51:33.865Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC012_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "8a3e60cb062d4a9ab5cff90c8e1355e0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8a3e60cb062d4a9ab5cff90c8e1355e0",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.297Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC012_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:52:23.276Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC013_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "7c001c4559df46ae8309e24025752cd7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7c001c4559df46ae8309e24025752cd7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.295Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC013_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:52:39.718Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC060_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "fe01350bce974af99737c9ecbf97c433",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fe01350bce974af99737c9ecbf97c433",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.322Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC060_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:52:55.431Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC015_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "048593503774476381e42b01def92ca5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "048593503774476381e42b01def92ca5",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.258Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC015_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:54:39.138Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC016_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "3ea39cf248de441098ff1171073fc83d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ea39cf248de441098ff1171073fc83d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.270Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC016_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T20:57:39.294Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC017_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "340a75a5d0564c2daf69a486f6e14065",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "340a75a5d0564c2daf69a486f6e14065",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.269Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC017_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:00:47.212Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC018_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "6d4bc91a41b44872920ea4335dff1994",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6d4bc91a41b44872920ea4335dff1994",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.291Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC018_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:01:17.093Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC019_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "a0c0aa7d010a482c97d38a9d186c73e6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a0c0aa7d010a482c97d38a9d186c73e6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.309Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC019_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:01:41.131Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC020_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "c6d60be058a44d5eadf94685330549cd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c6d60be058a44d5eadf94685330549cd",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.315Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC020_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:31:19.021Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC022_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "573c5c7b73e744f586cddcd698606f36",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "573c5c7b73e744f586cddcd698606f36",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.288Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC022_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:31:56.465Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC029_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "eb8669e69661453dab223807b70286ae",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eb8669e69661453dab223807b70286ae",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.321Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC029_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:32:29.656Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC035_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "95736a6d46c04691aa9f7c3643279465",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "95736a6d46c04691aa9f7c3643279465",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.301Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC035_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:33:17.369Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC036_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "15afa196285c444d928734bc8b103108",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "15afa196285c444d928734bc8b103108",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.263Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC036_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:33:41.747Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC037_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "97ee635de77f4c9ba3b5bf876afeaf0c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "97ee635de77f4c9ba3b5bf876afeaf0c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.302Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC037_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T21:34:11.488Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC038_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "b4a0b2551bd5420a95bfa6f923498013",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b4a0b2551bd5420a95bfa6f923498013",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.312Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC038_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:31:18.974Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC061_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "7b53053bc3604e979a7e4090b4cf7f73",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7b53053bc3604e979a7e4090b4cf7f73",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.294Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC061_Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:31:37.436Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC062_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "75500fd45b484357a894d136fee7afb7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "75500fd45b484357a894d136fee7afb7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.294Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC062_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:31:51.167Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC063_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "c273a453169e4a1c943dfa13018b9c24",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c273a453169e4a1c943dfa13018b9c24",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.314Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC063_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:32:39.893Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC064_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "c1cd847c5acf48ddab286b6728fa11c0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1cd847c5acf48ddab286b6728fa11c0",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.314Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC064_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:32:57.191Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC065_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "435c777013d34b359a5d73a1364eede8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "435c777013d34b359a5d73a1364eede8",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.271Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC065_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:33:23.620Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC066_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "d6da3043988b4ed68fe9b9c063856c7d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6da3043988b4ed68fe9b9c063856c7d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.317Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC066_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:33:57.257Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC067_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "b10863a0863346fd86b45830610f9733",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b10863a0863346fd86b45830610f9733",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.311Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC067_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:34:10.822Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC068_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "51d82f85923b422d874f2f55e618edc6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "51d82f85923b422d874f2f55e618edc6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.286Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC068_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:41:39.392Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC100_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "a467b6b59b65485cba2be7411794a6f5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a467b6b59b65485cba2be7411794a6f5",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.310Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC100_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:41:51.042Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC101_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "a3bf2bf5775e4a6ebdc2ebb34bb5fea2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a3bf2bf5775e4a6ebdc2ebb34bb5fea2",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.310Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC101_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:42:02.155Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC102_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "6b7a33f8f15440cea8f2e9f2948304b8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6b7a33f8f15440cea8f2e9f2948304b8",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.291Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC102_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:42:12.099Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC103_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "6f0edad11809493f916667273edc3742",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6f0edad11809493f916667273edc3742",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.292Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC103_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-06T00:42:22.433Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC104_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "5ceb21430a2f47d5812d2dacd372ee08",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5ceb21430a2f47d5812d2dacd372ee08",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.289Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC104_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:12:56.198Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC075_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "06ad9aa80f1c46eaaeae63201717f6ad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "06ad9aa80f1c46eaaeae63201717f6ad",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.260Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC075_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:13:13.302Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC076_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "0a099d63ff8444829f25ce9e259f9146",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0a099d63ff8444829f25ce9e259f9146",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.260Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC076_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:13:30.699Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC077_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "8f542353295246e0b6da0d94390e4c99",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8f542353295246e0b6da0d94390e4c99",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.300Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC077_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:13:48.296Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC078_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "66cda99eda3f4611be47f778a9ba506d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "66cda99eda3f4611be47f778a9ba506d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.290Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC078_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:14:04.329Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC079_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "8e9828e1608f4b7989c6b05e9e0b5d58",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8e9828e1608f4b7989c6b05e9e0b5d58",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.299Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC079_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:14:22.572Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC080_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "2187e80e4187490faca694347f307dce",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2187e80e4187490faca694347f307dce",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.265Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC080_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:17:01.810Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC081_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "bdb5c7f740a04860a6fa7ef49b637146",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bdb5c7f740a04860a6fa7ef49b637146",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.313Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC081_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:17:43.671Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC082_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "73fa695d42e54b508053053780c7f849",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "73fa695d42e54b508053053780c7f849",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.293Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC082_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:18:12.128Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC083_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "32160b25cfed495788f983bcb5434946",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "32160b25cfed495788f983bcb5434946",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.267Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC083_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:18:43.480Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC084_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "126f142e90254300b5b4747848fbe01f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "126f142e90254300b5b4747848fbe01f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.262Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC084_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:19:09.874Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC086_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "4a3714cb998149129e7a15c890001b7b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4a3714cb998149129e7a15c890001b7b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.285Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC086_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:19:33.980Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC087_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "3318b4a9dc514171b28f9171beead717",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3318b4a9dc514171b28f9171beead717",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.267Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC087_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:19:53.746Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC088_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "25b8b1c4ebaa4092b358e0a8f78dac5c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "25b8b1c4ebaa4092b358e0a8f78dac5c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.266Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC088_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:20:19.938Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC089_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "84388fe9cabe4fafac755491bf18dff2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "84388fe9cabe4fafac755491bf18dff2",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.296Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC089_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:20:41.332Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC090_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "56202faa018d4022935589f924d0dd80",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "56202faa018d4022935589f924d0dd80",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.287Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC090_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:21:05.261Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC091_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "b09ff40de17d455caf4b92a7095d3087",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b09ff40de17d455caf4b92a7095d3087",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.311Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC091_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:21:25.995Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC092_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "64a316b94ec7465285f54f6c8c3cdce6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "64a316b94ec7465285f54f6c8c3cdce6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.290Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC092_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:21:46.073Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC093_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "ea5425e8b31645bbbda83fa46eb71921",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ea5425e8b31645bbbda83fa46eb71921",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.321Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC093_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:22:05.364Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC094_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "44e47a650f4c46789d4e228a412351d9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "44e47a650f4c46789d4e228a412351d9",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.271Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC094_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:22:27.986Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC095_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "9e0aa59b4b04410f8306d032dbc7541b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9e0aa59b4b04410f8306d032dbc7541b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.303Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC095_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T21:22:51.577Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC096_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "d2677752f68943939613f83f13f02ea3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d2677752f68943939613f83f13f02ea3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.316Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC096_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-23T03:32:41.614Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC105_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "05feb77f0d964ec0bdfec826433f5d0d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "05feb77f0d964ec0bdfec826433f5d0d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.259Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC105_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-23T03:32:55.616Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC106_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "83b3102664e645479652bb5b3a9bbfbb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "83b3102664e645479652bb5b3a9bbfbb",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.296Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC106_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-23T03:33:09.092Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC107_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "fe17cb4c79214df1816702a54e3a76e2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fe17cb4c79214df1816702a54e3a76e2",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.323Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC107_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-23T03:33:22.704Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC108_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "7d2e363e7fa349aebab934ce117e384c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7d2e363e7fa349aebab934ce117e384c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.295Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC108_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-23T03:48:46.504Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC109_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "ecd6500439784ffa9f58c01f40004d14",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ecd6500439784ffa9f58c01f40004d14",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.322Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC109_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-23T03:49:01.087Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC110_Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "5c795cb21966468f85964ac4b3aa6077",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5c795cb21966468f85964ac4b3aa6077",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-27T16:50:11.289Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC110_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-06T20:02:13.990Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC112 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "9f5368d8e4b84f3bb6a181f085dba01b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9f5368d8e4b84f3bb6a181f085dba01b",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-05-06T20:02:20.420Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC112 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-06T20:02:54.434Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC113 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "7777af706c9c448c8c791c297c8d0178",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7777af706c9c448c8c791c297c8d0178",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-05-06T20:02:54.434Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC113 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-02T21:12:54.529Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC114 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "e0ff44a66dff48a28c1b2c4fd502b993",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e0ff44a66dff48a28c1b2c4fd502b993",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-06-02T21:12:54.529Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC114 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-25T15:58:46.565Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC115 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "b24f66fff5244a15a819b1824a1d7fbb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b24f66fff5244a15a819b1824a1d7fbb",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-06-25T15:58:46.565Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC115 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-25T15:59:02.289Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC116 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "2d806d51b487453f971237d72966f625",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2d806d51b487453f971237d72966f625",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-06-25T15:59:02.289Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC116 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-25T15:59:31.918Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC117 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "b79940d2606c4c64b630c04decf9115a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b79940d2606c4c64b630c04decf9115a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-06-25T15:59:31.918Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC117 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:23:59.104Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC118 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "8443a6cba3d941808325515946beccaf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8443a6cba3d941808325515946beccaf",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:23:59.104Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC118 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:24:45.998Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC119 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "7506e6806d0f4d719cc3d21d412a94d1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7506e6806d0f4d719cc3d21d412a94d1",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:24:45.998Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC119 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:25:07.506Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC120 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "e3f3e9c28913401bae75abbcbc3b6179",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e3f3e9c28913401bae75abbcbc3b6179",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:25:07.506Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC120 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:25:32.366Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC121 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "abbfee8ed5764e2ba02899b3c26e3ab3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "abbfee8ed5764e2ba02899b3c26e3ab3",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:25:32.366Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC121 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:25:51.149Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC122 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "a54729734e52410a83e7ede92c5d6fe7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a54729734e52410a83e7ede92c5d6fe7",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:25:51.149Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC122 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:26:11.793Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC123 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "8da8884f39dd4b6cb2e00ee4e0101d9a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8da8884f39dd4b6cb2e00ee4e0101d9a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:26:11.793Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC123 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:26:32.717Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC124 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "d8ec738149d3494e9701763ba746c6f0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d8ec738149d3494e9701763ba746c6f0",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:42:12.945Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC124 Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:27:16.222Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC125 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "b9b10b51490a4c2d8a4d9c61e23f00e5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b9b10b51490a4c2d8a4d9c61e23f00e5",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:42:38.684Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC125 Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-20T20:27:45.778Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC126 Audience",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "542992f52a8a45fdb4aa9154f0696c62",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "542992f52a8a45fdb4aa9154f0696c62",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-20T20:43:08.257Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC126 Audience",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "48353a502e72433298f25827e03dbff0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "48353a502e72433298f25827e03dbff0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a890c6157dce97993be432cb8338cb79",
+        "size": 536899,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-15T19:57:16.682Z",
+        "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/item/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1-2560x1440-a890c6157dce97993be432cb8338cb79.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
+        "size": 254582,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-15T19:57:27.325Z",
+        "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/item/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-04-29T15:02:23.746Z",
+    "namespace": "7e508f543b05465abe3a935960eb70ac",
+    "releaseInfo": [
+      {
+        "appId": "40cb42e38c0b4a14a1bb133eb3291572",
+        "dateAdded": "2020-10-15T00:00:00.000Z",
+        "id": "5618de8423984b47a36993a80035ac38",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Idle Champions of the Forgotten Realms",
+    "unsearchable": false
+  }
+}

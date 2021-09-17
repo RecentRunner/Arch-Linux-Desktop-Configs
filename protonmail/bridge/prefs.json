@@ -1,0 +1,18 @@
+{
+	"allow_proxy": "true",
+	"autostart": "true",
+	"autoupdate": "true",
+	"cookies": "{\"https://api.protonmail.ch\":[{\"Name\":\"Session-Id\",\"Value\":\"YUOogdwVCxT16KLtgxCEoQAAAPU\",\"Path\":\"/\",\"Domain\":\"protonmail.ch\",\"Expires\":\"2021-12-15T13:27:13.077604092-07:00\",\"RawExpires\":\"\",\"MaxAge\":7776000,\"Secure\":true,\"HttpOnly\":true,\"SameSite\":0,\"Raw\":\"Session-Id=YUOogdwVCxT16KLtgxCEoQAAAPU; Domain=protonmail.ch; Path=/; HttpOnly; Secure; Max-Age=7776000\",\"Unparsed\":null},{\"Name\":\"Version\",\"Value\":\"default\",\"Path\":\"/\",\"Domain\":\"\",\"Expires\":\"2021-12-15T13:27:13.077604312-07:00\",\"RawExpires\":\"\",\"MaxAge\":7776000,\"Secure\":true,\"HttpOnly\":false,\"SameSite\":0,\"Raw\":\"Version=default; Path=/; Secure; Max-Age=7776000\",\"Unparsed\":null}],\"https://protonmail.com\":[{\"Name\":\"Session-Id\",\"Value\":\"YUOogiuHcFKnuXiaFGbwUQAAAIg\",\"Path\":\"/\",\"Domain\":\"protonmail.com\",\"Expires\":\"2021-12-15T13:26:42.80182656-07:00\",\"RawExpires\":\"\",\"MaxAge\":7776000,\"Secure\":true,\"HttpOnly\":true,\"SameSite\":0,\"Raw\":\"Session-Id=YUOogiuHcFKnuXiaFGbwUQAAAIg; Domain=protonmail.com; Path=/; HttpOnly; Secure; Max-Age=7776000\",\"Unparsed\":null},{\"Name\":\"Version\",\"Value\":\"default\",\"Path\":\"/\",\"Domain\":\"\",\"Expires\":\"2021-12-15T13:26:42.8018267-07:00\",\"RawExpires\":\"\",\"MaxAge\":7776000,\"Secure\":true,\"HttpOnly\":false,\"SameSite\":0,\"Raw\":\"Version=default; Path=/; Secure; Max-Age=7776000\",\"Unparsed\":null}]}",
+	"first_time_start": "false",
+	"first_time_start_gui": "false",
+	"last_heartbeat": "259",
+	"last_used_version": "1.8.9+git",
+	"preferred_keychain": "",
+	"report_outgoing_email_without_encryption": "false",
+	"rollout": "0.18723468455329534",
+	"update_channel": "stable",
+	"user_port_api": "1042",
+	"user_port_imap": "1143",
+	"user_port_smtp": "1025",
+	"user_ssl_smtp": "false"
+}

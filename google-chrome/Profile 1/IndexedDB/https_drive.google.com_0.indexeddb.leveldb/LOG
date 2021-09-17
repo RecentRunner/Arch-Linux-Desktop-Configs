@@ -1,0 +1,6 @@
+2021/09/12-16:47:45.259 13785 Creating DB /home/user/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2021/09/12-16:47:45.263 13785 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/12-17:57:07.972 147ec Level-0 table #5: started
+2021/09/12-17:57:07.974 147ec Level-0 table #5: 252611 bytes OK
+2021/09/12-17:57:07.976 147ec Delete type=0 #3
+2021/09/12-17:57:07.977 147ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

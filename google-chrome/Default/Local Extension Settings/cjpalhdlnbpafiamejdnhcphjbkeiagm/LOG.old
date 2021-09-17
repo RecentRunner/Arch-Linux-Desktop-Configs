@@ -1,0 +1,14 @@
+2021/09/11-17:20:23.687 16670 Creating DB /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2021/09/11-17:20:23.691 16670 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/09/11-17:20:24.950 1666d Level-0 table #5: started
+2021/09/11-17:20:24.981 1666d Level-0 table #5: 1563813 bytes OK
+2021/09/11-17:20:25.024 1666d Delete type=0 #3
+2021/09/11-17:23:25.309 16671 Level-0 table #7: started
+2021/09/11-17:23:25.335 16671 Level-0 table #7: 2436039 bytes OK
+2021/09/11-17:23:25.337 16671 Delete type=0 #4
+2021/09/11-17:25:26.158 18350 Level-0 table #9: started
+2021/09/11-17:25:26.180 18350 Level-0 table #9: 2488917 bytes OK
+2021/09/11-17:25:26.182 18350 Delete type=0 #6
+2021/09/11-17:31:27.371 1834e Level-0 table #11: started
+2021/09/11-17:31:27.383 1834e Level-0 table #11: 1465787 bytes OK
+2021/09/11-17:31:27.385 1834e Delete type=0 #8

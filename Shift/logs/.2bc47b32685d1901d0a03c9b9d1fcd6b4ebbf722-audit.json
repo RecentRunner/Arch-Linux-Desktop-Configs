@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/home/user/.config/Shift/logs/.2bc47b32685d1901d0a03c9b9d1fcd6b4ebbf722-audit.json",
+    "files": [
+        {
+            "date": 1631822448930,
+            "name": "/home/user/.config/Shift/logs/2021-09-16.log",
+            "hash": "892d553e10f5ae53501f926d0a4a4a20"
+        }
+    ]
+}

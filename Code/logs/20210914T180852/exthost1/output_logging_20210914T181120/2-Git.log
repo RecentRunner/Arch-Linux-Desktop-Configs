@@ -1,0 +1,16 @@
+Validating found git in: git
+Using git 2.33.0 from git
+> git rev-parse --git-dir
+Open repository: /media/Storage/Repos/Programing/Rust/learning_glium
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Opening repository for path='/home/user/Repos/Programing/Rust/learning_glium/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/user/Repos/Programing/Rust/learning_glium/Cargo.lock' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/user/Repos/Programing/Rust/learning_glium/Cargo.toml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/user/Repos/Programing/Rust/learning_glium/hs_err_pid485024.log' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/user/Repos/Programing/Rust/learning_glium/hs_err_pid490369.log' failed; ex=Error: spawn ENOTDIR
+> git check-ignore -v -z --stdin

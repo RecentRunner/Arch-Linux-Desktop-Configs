@@ -1,0 +1,613 @@
+{"time":1631642754757,"level":30,"msg":"itch@25.5.1 on electron@10.4.5 in production"}
+{"time":1631642754848,"level":20,"msg":"Registering itch: protocol for session with user agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) itch/25.5.1 Chrome/85.0.4183.121 Electron/10.4.5 Safari/537.36","name":"m/net/register-itch-protocol"}
+{"time":1631642754919,"level":30,"msg":"preboot ran in 75.00ms","name":"m/reac/preboot"}
+{"time":1631642754920,"level":20,"msg":"Updating login item settings, open=false, hidden=false","name":"m/reac/open-at-login"}
+{"time":1631642754920,"level":20,"msg":"Copying /usr/share/applications/io.itch.itch.desktop => /home/user/.config/autostart/io.itch.itch.desktop","name":"m/reac/open-at-login"}
+{"time":1631642754923,"level":20,"msg":"Waiting on root window to dispatch boot","name":"m/reac/winds"}
+{"time":1631642755099,"level":30,"msg":"Setup starting...","name":"🔧 setup"}
+{"time":1631642755108,"level":30,"msg":"Creating broth manager","name":"🔧 setup"}
+{"time":1631642755109,"level":30,"msg":"Ensuring broth dependencies, for startup","name":"🔧 setup"}
+{"time":1631642755111,"level":20,"msg":"Package (itch) got version prefix","name":"🔧 setup"}
+{"time":1631642755113,"level":30,"msg":"No chosen version, attempting install...","name":"📦 butler"}
+{"time":1631642755114,"level":20,"msg":"Trying to satisfy semver constraint (^15.20.0)","name":"📦 butler"}
+{"time":1631642755114,"level":20,"msg":"GET (https://broth.itch.ovh/butler/linux-amd64/versions)","name":"📦 butler"}
+{"time":1631642755114,"level":20,"msg":"HTTP get https://broth.itch.ovh/butler/linux-amd64/versions","name":"r"}
+{"time":1631642755117,"level":20,"msg":"Reading local locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631642755121,"level":20,"msg":"Reading remote locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631642755660,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631642755666,"level":30,"msg":"Latest is (15.21.0)","name":"📦 butler"}
+{"time":1631642755672,"level":40,"msg":"Sanity check failed: spawn /home/user/.config/itch/broth/butler/versions/15.21.0/butler ENOENT","name":"📦 butler"}
+{"time":1631642755674,"level":30,"msg":"Downloading (butler)@(15.21.0)","name":"📦 butler"}
+{"time":1631642755674,"level":30,"msg":"...from (https://broth.itch.ovh/butler/linux-amd64/15.21.0/butler.zip)","name":"📦 butler"}
+{"time":1631642755674,"level":30,"msg":"...to (/home/user/.config/itch/broth/butler/downloads/butler.zip)","name":"📦 butler"}
+{"time":1631642755676,"level":20,"msg":"HTTP get https://broth.itch.ovh/butler/linux-amd64/15.21.0/butler.zip","name":"r"}
+{"time":1631642755851,"level":30,"msg":"Language settings: preference undefined, sniffed en-GB, fallback en","name":"m/reac/i18n"}
+{"time":1631642755854,"level":20,"msg":"Reading local locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631642755856,"level":20,"msg":"Reading remote locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631642756512,"level":20,"msg":"Got HTTP 200, content-length: 9.4 MiB","name":"r"}
+{"time":1631642756513,"level":30,"msg":"HTTP 200 https://broth.itch.ovh/butler/linux-amd64/15.21.0/butler.zip","name":"📦 butler"}
+{"time":1631642756806,"level":30,"msg":"100.0% done, eta 0.0s @ 9.4 MiB/s","name":"📦 butler"}
+{"time":1631642756806,"level":20,"msg":"Awaiting file sink promise","name":"📦 butler"}
+{"time":1631642756807,"level":30,"msg":"Downloaded 9.4 MiB / 9.4 MiB (9830035 bytes)","name":"📦 butler"}
+{"time":1631642756807,"level":30,"msg":"Download completed.","name":"📦 butler"}
+{"time":1631642756807,"level":30,"msg":"Extracting...","name":"📦 butler"}
+{"time":1631642756809,"level":20,"msg":"Total zip entries: 3","name":"📦 butler"}
+{"time":1631642756809,"level":20,"msg":".zip filesize: 9830035","name":"📦 butler"}
+{"time":1631642756809,"level":20,"msg":"→ 7z.so","name":"📦 butler"}
+{"time":1631642756810,"level":30,"msg":"Extracting /home/user/.config/itch/broth/butler/versions/15.21.0/7z.so","name":"📦 butler"}
+{"time":1631642756859,"level":20,"msg":"→ butler","name":"📦 butler"}
+{"time":1631642756860,"level":30,"msg":"Extracting /home/user/.config/itch/broth/butler/versions/15.21.0/butler","name":"📦 butler"}
+{"time":1631642757185,"level":20,"msg":"→ libc7zip.so","name":"📦 butler"}
+{"time":1631642757186,"level":30,"msg":"Extracting /home/user/.config/itch/broth/butler/versions/15.21.0/libc7zip.so","name":"📦 butler"}
+{"time":1631642757191,"level":30,"msg":"Validating...","name":"📦 butler"}
+{"time":1631642757266,"level":30,"msg":"Validated!","name":"📦 butler"}
+{"time":1631642757266,"level":30,"msg":"Marking (15.21.0) as chosen version","name":"📦 butler"}
+{"time":1631642757267,"level":30,"msg":"Switching to (15.21.0)","name":"📦 butler"}
+{"time":1631642757268,"level":20,"msg":"Package (butler) got version prefix","name":"🔧 setup"}
+{"time":1631642757268,"level":30,"msg":"Refreshing butlerd!","name":"🔧 setup"}
+{"time":1631642757268,"level":30,"msg":"Spinning up butlerd instance 1...","name":"🔧 setup"}
+{"time":1631642757272,"level":30,"msg":"...waiting for endpoint from butlerd instance 1...","name":"🔧 setup"}
+{"time":1631642757276,"level":20,"msg":"Present versions: 15.21.0","name":"📦 butler"}
+{"time":1631642757277,"level":30,"msg":"No chosen version, attempting install...","name":"📦 itch-setup"}
+{"time":1631642757277,"level":30,"msg":"No valid version, but not required at startup. Skipping","name":"📦 itch-setup"}
+{"time":1631642757277,"level":30,"msg":"Never set up 25.5.1 successfully before, forcing components upgrade check","name":"🔧 setup"}
+{"time":1631642757277,"level":40,"msg":"itch-setup: no prefix (not installed yet?)","name":"📦 self"}
+{"time":1631642757278,"level":20,"msg":"Trying to satisfy semver constraint (^15.20.0)","name":"📦 butler"}
+{"time":1631642757278,"level":20,"msg":"GET (https://broth.itch.ovh/butler/linux-amd64/versions)","name":"📦 butler"}
+{"time":1631642757278,"level":20,"msg":"HTTP get https://broth.itch.ovh/butler/linux-amd64/versions","name":"r"}
+{"time":1631642757354,"level":30,"msg":"...for butlerd instance 1 got endpoint 127.0.0.1:40687","name":"🔧 setup"}
+{"time":1631642757517,"level":30,"msg":"Now speaking with butlerd instance 1, version v15.21.0, built on May 11 2021 @ 12:18:40, ref 6ad656eebbb5b80bf2065644d8bf9e40a15e8276, endpoint 127.0.0.1:40687","name":"🔧 setup"}
+{"time":1631642757519,"level":20,"msg":"Downloads driver reacting to gotButlerdEndpoint, cancelling state...","name":"m/reac/down/driver"}
+{"time":1631642757519,"level":20,"msg":"Not cancelling, current phase is 0","name":"m/reac/down/driver-persistent-state"}
+{"time":1631642757519,"level":20,"msg":"Downloads driver reacting to gotButlerdEndpoint, state is cancelled...","name":"m/reac/down/driver"}
+{"time":1631642757519,"level":20,"msg":"Download driver polling...","name":"m/reac/down/driver"}
+{"time":1631642757519,"level":20,"msg":"Calling Downloads.List","name":"mcall"}
+{"time":1631642757577,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631642757578,"level":30,"msg":"Latest is (15.21.0)","name":"📦 butler"}
+{"time":1631642757578,"level":30,"msg":"Already the active version, nothing to do","name":"📦 butler"}
+{"time":1631642757579,"level":20,"msg":"Present versions: 15.21.0","name":"📦 butler"}
+{"time":1631642757579,"level":20,"msg":"Trying to satisfy semver constraint (^1.8.0)","name":"📦 itch-setup"}
+{"time":1631642757579,"level":20,"msg":"GET (https://broth.itch.ovh/itch-setup/linux-amd64/versions)","name":"📦 itch-setup"}
+{"time":1631642757579,"level":20,"msg":"HTTP get https://broth.itch.ovh/itch-setup/linux-amd64/versions","name":"r"}
+{"time":1631642757858,"level":20,"msg":"Downloading fresh locale file from https://locales.itch.ovh/itch/en.json","name":"m/reac/locales"}
+{"time":1631642757858,"level":20,"msg":"HTTP get https://locales.itch.ovh/itch/en.json","name":"r"}
+{"time":1631642757902,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631642757904,"level":30,"msg":"Latest is (1.26.0)","name":"📦 itch-setup"}
+{"time":1631642757904,"level":20,"msg":"spawning /home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup :: --version","name":"📦 itch-setup"}
+{"time":1631642757908,"level":40,"msg":"Sanity check failed: spawn /home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup ENOENT","name":"📦 itch-setup"}
+{"time":1631642757909,"level":30,"msg":"Downloading (itch-setup)@(1.26.0)","name":"📦 itch-setup"}
+{"time":1631642757909,"level":30,"msg":"...from (https://broth.itch.ovh/itch-setup/linux-amd64/1.26.0/itch-setup.zip)","name":"📦 itch-setup"}
+{"time":1631642757909,"level":30,"msg":"...to (/home/user/.config/itch/broth/itch-setup/downloads/itch-setup.zip)","name":"📦 itch-setup"}
+{"time":1631642757909,"level":20,"msg":"HTTP get https://broth.itch.ovh/itch-setup/linux-amd64/1.26.0/itch-setup.zip","name":"r"}
+{"time":1631642758102,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631642758164,"level":20,"msg":"HTTP GET https://locales.itch.ovh/itch/en.json: 200","name":"m/reac/locales"}
+{"time":1631642758165,"level":20,"msg":"Saving fresh en locale to /home/user/.config/itch/locales/en.json","name":"m/reac/locales"}
+{"time":1631642758823,"level":20,"msg":"Got HTTP 200, content-length: 6.3 MiB","name":"r"}
+{"time":1631642758823,"level":30,"msg":"HTTP 200 https://broth.itch.ovh/itch-setup/linux-amd64/1.26.0/itch-setup.zip","name":"📦 itch-setup"}
+{"time":1631642759185,"level":30,"msg":"100.0% done, eta 0.0s @ 6.3 MiB/s","name":"📦 itch-setup"}
+{"time":1631642759185,"level":20,"msg":"Awaiting file sink promise","name":"📦 itch-setup"}
+{"time":1631642759185,"level":30,"msg":"Downloaded 6.3 MiB / 6.3 MiB (6569357 bytes)","name":"📦 itch-setup"}
+{"time":1631642759185,"level":30,"msg":"Download completed.","name":"📦 itch-setup"}
+{"time":1631642759186,"level":30,"msg":"Extracting...","name":"📦 itch-setup"}
+{"time":1631642759186,"level":20,"msg":"Total zip entries: 1","name":"📦 itch-setup"}
+{"time":1631642759186,"level":20,"msg":".zip filesize: 6569357","name":"📦 itch-setup"}
+{"time":1631642759187,"level":20,"msg":"→ itch-setup","name":"📦 itch-setup"}
+{"time":1631642759187,"level":30,"msg":"Extracting /home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup","name":"📦 itch-setup"}
+{"time":1631642759414,"level":30,"msg":"Validating...","name":"📦 itch-setup"}
+{"time":1631642759414,"level":20,"msg":"spawning /home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup :: --version","name":"📦 itch-setup"}
+{"time":1631642759429,"level":30,"msg":"Validated!","name":"📦 itch-setup"}
+{"time":1631642759429,"level":30,"msg":"Marking (1.26.0) as chosen version","name":"📦 itch-setup"}
+{"time":1631642759429,"level":30,"msg":"Switching to (1.26.0)","name":"📦 itch-setup"}
+{"time":1631642759430,"level":20,"msg":"Package (itch-setup) got version prefix","name":"🔧 setup"}
+{"time":1631642759432,"level":20,"msg":"Present versions: 1.26.0","name":"📦 itch-setup"}
+{"time":1631642759433,"level":20,"msg":"Waiting for butler promise...","name":"🔧 setup"}
+{"time":1631642759433,"level":20,"msg":"Syncing install locations...","name":"🔧 setup"}
+{"time":1631642759433,"level":20,"msg":"Calling Install.Locations.List","name":"mcall"}
+{"time":1631642759434,"level":20,"msg":"Checking install location appdata...","name":"🔧 setup"}
+{"time":1631642759434,"level":20,"msg":"Synchronizing appdata...","name":"🔧 setup"}
+{"time":1631642759434,"level":20,"msg":"Calling Install.Locations.Add","name":"mcall"}
+{"time":1631642759435,"level":30,"msg":"Registered 1 install locations with butler","name":"🔧 setup"}
+{"time":1631642759436,"level":20,"msg":"Dispatching setup done!","name":"🔧 setup"}
+{"time":1631642759436,"level":30,"msg":"Setup done","name":"🔧 setup"}
+{"time":1631642759436,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631642759437,"level":30,"msg":"Scanning install locations for items...","name":"m/reac/silent-location-scan"}
+{"time":1631642759437,"level":20,"msg":"Calling Install.Locations.Scan","name":"mcall"}
+{"time":1631642759438,"level":30,"msg":"Using tray image (/home/user/.itch/app-25.5.1/resources/app/src/static/images/tray/itch.png)"}
+{"time":1631642759448,"level":30,"msg":"• Scanning install location /home/user/.config/itch/apps...","name":"m/reac/silent-location-scan"}
+{"time":1631642759448,"level":30,"msg":"No items found","name":"m/reac/silent-location-scan"}
+{"time":1631642759448,"level":30,"msg":"Scan complete.","name":"m/reac/silent-location-scan"}
+{"time":1631642759441,"level":20,"msg":"Calling Profile.List","name":"rcall"}
+{"time":1631642759450,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631642759450,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642769197,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642769848,"level":20,"msg":"spawning /home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup :: --appname ::: itch ::: --upgrade","name":"m/brot/itch-setup"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 itch-setup will log to /tmp/itch-setup-log.txt","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 =========================================","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 itch-setup \"v1.26.0, built on Apr 21 2021 @ 19:48:12, ref 48f97b3e7b0b065a2478811b8d0ebcae414845fd\" starting up at \"2021-09-14 12:06:09.861805481 -0600 MDT m=+0.002312389\" with arguments:","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 \"/home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup\"","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 \"--appname\"","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 \"itch\"","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 \"--upgrade\"","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 =========================================","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 App name specified on command-line: itch","name":"📦 self"}
+{"time":1631642769862,"level":20,"msg":"> 2021/09/14 12:06:09 Locale:  en-CA","name":"📦 self"}
+{"time":1631642769864,"level":20,"msg":"> 2021/09/14 12:06:09 Initializing installer GUI...","name":"📦 self"}
+{"time":1631642769864,"level":20,"msg":"> 2021/09/14 12:06:09 Using GTK UI","name":"📦 self"}
+{"time":1631642769896,"level":20,"msg":"> 2021/09/14 12:06:09 Initializing (itch) multiverse @ (/home/user/.itch)","name":"📦 self"}
+{"time":1631642769896,"level":20,"msg":"> 2021/09/14 12:06:09 (/home/user/.itch)(current = \"25.5.1\", ready = \"\")","name":"📦 self"}
+{"time":1631642770696,"level":20,"msg":"> 2021/09/14 12:06:10 Installed 25.5.1","name":"📦 self"}
+{"time":1631642770696,"level":20,"msg":"> 2021/09/14 12:06:10 Latest    25.5.1","name":"📦 self"}
+{"time":1631642770696,"level":20,"msg":"> 2021/09/14 12:06:10 We're up-to-date!","name":"📦 self"}
+{"time":1631642770699,"level":20,"msg":"Trying to satisfy semver constraint (^15.20.0)","name":"📦 butler"}
+{"time":1631642770699,"level":20,"msg":"GET (https://broth.itch.ovh/butler/linux-amd64/versions)","name":"📦 butler"}
+{"time":1631642770699,"level":20,"msg":"HTTP get https://broth.itch.ovh/butler/linux-amd64/versions","name":"r"}
+{"time":1631642771027,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631642771027,"level":30,"msg":"Latest is (15.21.0)","name":"📦 butler"}
+{"time":1631642771028,"level":30,"msg":"Already the active version, nothing to do","name":"📦 butler"}
+{"time":1631642771028,"level":20,"msg":"Present versions: 15.21.0","name":"📦 butler"}
+{"time":1631642771028,"level":20,"msg":"Trying to satisfy semver constraint (^1.8.0)","name":"📦 itch-setup"}
+{"time":1631642771028,"level":20,"msg":"GET (https://broth.itch.ovh/itch-setup/linux-amd64/versions)","name":"📦 itch-setup"}
+{"time":1631642771028,"level":20,"msg":"HTTP get https://broth.itch.ovh/itch-setup/linux-amd64/versions","name":"r"}
+{"time":1631642771336,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631642771336,"level":30,"msg":"Latest is (1.26.0)","name":"📦 itch-setup"}
+{"time":1631642771336,"level":30,"msg":"Already the active version, nothing to do","name":"📦 itch-setup"}
+{"time":1631642771337,"level":20,"msg":"Present versions: 1.26.0","name":"📦 itch-setup"}
+{"time":1631642773035,"level":30,"msg":"Attempting password login for user solargale","name":"m/reac/login"}
+{"time":1631642773036,"level":30,"msg":"Doing username/password login...","name":"m/reac/login"}
+{"time":1631642773036,"level":20,"msg":"Calling Profile.LoginWithPassword","name":"mcall"}
+{"time":1631642773036,"level":20,"msg":"Setting up handlers for TOTP & captcha","name":"m/reac/login"}
+{"time":1631642773446,"level":30,"msg":"Setting cookies...","name":"m/reac/login"}
+{"time":1631642773463,"level":30,"msg":"Login succeeded, setting up session","name":"m/reac/login"}
+{"time":1631642773463,"level":30,"msg":"Registering itch protocol for session persist:itchio-566461","name":"m/reac/login"}
+{"time":1631642773463,"level":20,"msg":"Registering itch: protocol for session with user agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) itch/25.5.1 Chrome/85.0.4183.121 Electron/10.4.5 Safari/537.36","name":"m/net/register-itch-protocol"}
+{"time":1631642773463,"level":30,"msg":"Restoring tabs...","name":"m/reac/login"}
+{"time":1631642773464,"level":20,"msg":"Calling Profile.Data.Get","name":"mcall"}
+{"time":1631642773465,"level":30,"msg":"No tabs to restore","name":"m/reac/tab-save"}
+{"time":1631642773465,"level":30,"msg":"Dispatching login succeeded","name":"m/reac/login"}
+{"time":1631642773465,"level":30,"msg":"Fetching owned keys...","name":"m/reac/login"}
+{"time":1631642773465,"level":20,"msg":"Calling Fetch.ProfileOwnedKeys","name":"mcall"}
+{"time":1631642773467,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642773468,"level":20,"msg":"Download driver polling...","name":"m/reac/down/driver"}
+{"time":1631642773468,"level":20,"msg":"Not paused... current phase: IDLE","name":"m/reac/down/driver"}
+{"time":1631642773468,"level":20,"msg":"IDLE => STARTING","name":"m/reac/down/driver-persistent-state"}
+{"time":1631642773468,"level":20,"msg":"Calling Downloads.Drive","name":"mcall"}
+{"time":1631642773468,"level":20,"msg":"STARTING => RUNNING","name":"m/reac/down/driver-persistent-state"}
+{"time":1631642773468,"level":30,"msg":"Downloads started","name":"m/reac/down/driver-persistent-state"}
+{"time":1631642773471,"level":30,"msg":"Fetching fresh data...","name":"m/reac/login"}
+{"time":1631642773471,"level":30,"msg":"Fetching page 1","name":"m/reac/login"}
+{"time":1631642773472,"level":30,"msg":"Now driving downloads...","name":"m/reac/down/driver"}
+{"time":1631642773497,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642773525,"level":20,"msg":"Calling Fetch.ProfileOwnedKeys","name":"rcall"}
+{"time":1631642773525,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642773538,"level":20,"msg":"Calling Fetch.ProfileOwnedKeys","name":"rcall"}
+{"time":1631642773540,"level":40,"msg":"(butlerd) no handler for notification Log (in Fetch.ProfileOwnedKeys convo)","name":"butlerd/make-client"}
+{"time":1631642773694,"level":30,"msg":"Fetching page 2","name":"m/reac/login"}
+{"time":1631642773778,"level":30,"msg":"Fetching page 3","name":"m/reac/login"}
+{"time":1631642773839,"level":30,"msg":"Waited 370.246008ms for fetch (shared with another call)","name":"m/reac/login"}
+{"time":1631642773840,"level":30,"msg":"Fetched owned keys in 375.00ms","name":"m/reac/login"}
+{"time":1631642773966,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642774120,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642774121,"level":20,"msg":"Calling Fetch.ProfileOwnedKeys","name":"rcall"}
+{"time":1631642774122,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642774852,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642778305,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642779723,"level":20,"msg":"Navigating to itch://featured/ ","name":"m/reac/navigation"}
+{"time":1631642779823,"level":20,"msg":"Loading url 'https://itch.io'","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"\n","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"=================================","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"commit https://itch.io/, reason did-navigate","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"currentIndex 1 pendingIndex -1 inPageIndex -1 inPage false","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"WebContents history:","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"W|<   about:blank","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"W|  > https://itch.io/","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"---------------------------------","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"State history:","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"S|   itch://library","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"S| > https://itch.io","name":"m/reac/web-contents"}
+{"time":1631642780568,"level":20,"msg":"pushing webContents title https://itch.io","name":"m/reac/web-contents"}
+{"time":1631642780569,"level":20,"msg":"History grew one, offset is 1","name":"m/reac/web-contents"}
+{"time":1631642780569,"level":20,"msg":"Replacing because previous web url \nabout:blank\n is not current state url \nhttps://itch.io","name":"m/reac/web-contents"}
+{"time":1631642780569,"level":20,"msg":"---------------------------------","name":"m/reac/web-contents"}
+{"time":1631642780569,"level":20,"msg":"State history:","name":"m/reac/web-contents"}
+{"time":1631642780569,"level":20,"msg":"S|   itch://library","name":"m/reac/web-contents"}
+{"time":1631642780569,"level":20,"msg":"S| > https://itch.io/","name":"m/reac/web-contents"}
+{"time":1631642780847,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642781849,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642782759,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642783585,"level":20,"msg":"did-finish-load (once)","name":"m/reac/web-contents"}
+{"time":1631642784847,"level":30,"msg":"Regularly scheduled check for game updates...","name":"m/reac/updater"}
+{"time":1631642784847,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642784847,"level":30,"msg":"Scheduling next game update check for Tue Sep 14 2021 12:29:23 GMT-0600 (Mountain Daylight Time)","name":"m/reac/updater"}
+{"time":1631642784848,"level":20,"msg":"Calling CheckUpdate","name":"mcall"}
+{"time":1631642784849,"level":30,"msg":"Looking for updates to 0 items...","name":"m/reac/updater"}
+{"time":1631642784849,"level":30,"msg":"✓ Checked 0 entries in 209.428µs","name":"m/reac/updater"}
+{"time":1631642788061,"level":20,"msg":"On window.close: close to tray enabled","name":"m/reac/winds"}
+{"time":1631642835016,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642835517,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642835877,"level":20,"msg":"On window.close: close to tray enabled","name":"m/reac/winds"}
+{"time":1631642874740,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642877892,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642878393,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642879004,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642881394,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642884168,"level":20,"msg":"Navigating to itch://preferences/ ","name":"m/reac/navigation"}
+{"time":1631642884183,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642885882,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642902633,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642912956,"level":20,"msg":"Navigating to itch://locations ","name":"m/reac/navigation"}
+{"time":1631642912957,"level":20,"msg":"WebContents has\n--> https://itch.io/\ntab evolved to\n--> itch://locations\nlet's load","name":"m/reac/web-contents"}
+{"time":1631642912959,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642912963,"level":20,"msg":"Tab initial-tab losing web contents!","name":"m/reac/web-contents"}
+{"time":1631642912966,"level":20,"msg":"Tab initial-tab losing web contents!","name":"m/reac/web-contents"}
+{"time":1631642912977,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631642912983,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642914885,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642951553,"level":20,"msg":"Calling Install.Locations.Add","name":"mcall"}
+{"time":1631642951555,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642951557,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631642951558,"level":30,"msg":"Scanning install locations for items...","name":"m/reac/silent-location-scan"}
+{"time":1631642951559,"level":20,"msg":"Calling Install.Locations.Scan","name":"mcall"}
+{"time":1631642951561,"level":30,"msg":"• Scanning install location /home/user/.config/itch/apps...","name":"m/reac/silent-location-scan"}
+{"time":1631642951561,"level":30,"msg":"• Scanning install location /home/user/Games/Non-Emulation/Itchio...","name":"m/reac/silent-location-scan"}
+{"time":1631642951711,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642951715,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642951716,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631642951723,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642952056,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642952556,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642953056,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642953327,"level":30,"msg":"• Scanning 19 entries","name":"m/reac/silent-location-scan"}
+{"time":1631642953327,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/21-the-world)","name":"m/reac/silent-location-scan"}
+{"time":1631642953679,"level":30,"msg":"Reading installed at from date 2021-03-03T17:58:05Z","name":"m/reac/silent-location-scan"}
+{"time":1631642953680,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631642954972,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642958535,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642959898,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642961130,"level":20,"msg":"Navigating to itch://locations/d1db90d5-2d77-40ad-9b89-e028deaf18de ","name":"m/reac/navigation"}
+{"time":1631642961145,"level":20,"msg":"Calling Install.Locations.GetByID","name":"rcall"}
+{"time":1631642961158,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642962894,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642963063,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631642963072,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642963073,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642964602,"level":20,"msg":"Navigating to itch://locations/d1db90d5-2d77-40ad-9b89-e028deaf18de ","name":"m/reac/navigation"}
+{"time":1631642964606,"level":20,"msg":"Calling Install.Locations.GetByID","name":"rcall"}
+{"time":1631642964614,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642964895,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642965889,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631642965895,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642965898,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642965899,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642966898,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642968594,"level":20,"msg":"Navigating to itch://locations/appdata ","name":"m/reac/navigation"}
+{"time":1631642968597,"level":20,"msg":"Calling Install.Locations.GetByID","name":"rcall"}
+{"time":1631642968603,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642969840,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631642969847,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642969848,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642969896,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642970897,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642971673,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642972174,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642974526,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642974868,"level":20,"msg":"Navigating to itch://locations/d1db90d5-2d77-40ad-9b89-e028deaf18de ","name":"m/reac/navigation"}
+{"time":1631642974870,"level":20,"msg":"Calling Install.Locations.GetByID","name":"rcall"}
+{"time":1631642974876,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642975896,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642976088,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631642976096,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642976096,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642977896,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642978767,"level":20,"msg":"Filtering 1 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631642978767,"level":20,"msg":"Reviewing (#21 The World/21-the-world.x86) flavor linux","name":"m/reac/silent-location-scan"}
+{"time":1631642978767,"level":30,"msg":"✓ Configured in 25.086909281s","name":"m/reac/silent-location-scan"}
+{"time":1631642978767,"level":30,"msg":"Found #21: The World - https://lsddev.itch.io/21-the-world","name":"m/reac/silent-location-scan"}
+{"time":1631642978767,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/aieyes)","name":"m/reac/silent-location-scan"}
+{"time":1631642978887,"level":30,"msg":"Reading installed at from date 2021-07-08T22:38:47Z","name":"m/reac/silent-location-scan"}
+{"time":1631642978887,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631642979474,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642981171,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642981917,"level":20,"msg":"Filtering 2 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":20,"msg":"Reviewing (Pix2Pix.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":20,"msg":"Excluding (Pix2Pix.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":20,"msg":"Reviewing (UnityCrashHandler64.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":20,"msg":"Excluding (UnityCrashHandler64.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":20,"msg":"Oh boy, we're on 64-bit Linux, let's filter some stuff","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":20,"msg":"No native 64-bit Linux candidates, looking for jars","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":20,"msg":"Sorted candidates: ","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":30,"msg":"✓ Configured in 3.029876378s","name":"m/reac/silent-location-scan"}
+{"time":1631642981917,"level":30,"msg":"Found AIeyes - https://tmdev.itch.io/aieyes","name":"m/reac/silent-location-scan"}
+{"time":1631642981918,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/anatomy)","name":"m/reac/silent-location-scan"}
+{"time":1631642982133,"level":30,"msg":"Reading installed at from date 2021-03-15T00:59:59Z","name":"m/reac/silent-location-scan"}
+{"time":1631642982133,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Filtering 3 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Reviewing (Anatomy.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Excluding (Anatomy.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Reviewing (Anatomy.x86) flavor linux","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Reviewing (Anatomy.x86_64) flavor linux","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Oh boy, we're on 64-bit Linux, let's filter some stuff","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Found some native 64-bit Linux candidates, excluding all others","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"Sorted candidates: ","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":20,"msg":"- [100] (Anatomy.x86_64)","name":"m/reac/silent-location-scan"}
+{"time":1631642985764,"level":30,"msg":"✓ Configured in 3.630820107s","name":"m/reac/silent-location-scan"}
+{"time":1631642985765,"level":30,"msg":"Found ANATOMY - https://kittyhorrorshow.itch.io/anatomy","name":"m/reac/silent-location-scan"}
+{"time":1631642985765,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/buddy-simulator-1984-demo)","name":"m/reac/silent-location-scan"}
+{"time":1631642985888,"level":30,"msg":"Reading installed at from date 2021-03-15T01:06:58Z","name":"m/reac/silent-location-scan"}
+{"time":1631642985888,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"Filtering 2 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"Reviewing (Buddy Simulator 1984 Demo.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"Excluding (Buddy Simulator 1984 Demo.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"Reviewing (UnityCrashHandler32.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"Excluding (UnityCrashHandler32.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"Oh boy, we're on 64-bit Linux, let's filter some stuff","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"No native 64-bit Linux candidates, looking for jars","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":20,"msg":"Sorted candidates: ","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":30,"msg":"✓ Configured in 1.708405718s","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":30,"msg":"Found Buddy Simulator 1984 DEMO - https://notasailorstudios.itch.io/buddy-simulator-1984-demo","name":"m/reac/silent-location-scan"}
+{"time":1631642987597,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/chain)","name":"m/reac/silent-location-scan"}
+{"time":1631642987714,"level":30,"msg":"Reading installed at from date 2021-07-20T17:11:49Z","name":"m/reac/silent-location-scan"}
+{"time":1631642987714,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631642992208,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642993226,"level":20,"msg":"Calling Install.Locations.Add","name":"mcall"}
+{"time":1631642993227,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642993728,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631642995950,"level":20,"msg":"Navigating to itch://locations/d1db90d5-2d77-40ad-9b89-e028deaf18de ","name":"m/reac/navigation"}
+{"time":1631642995952,"level":20,"msg":"Calling Install.Locations.GetByID","name":"rcall"}
+{"time":1631642995960,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642997901,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631642997994,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631642998003,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642998003,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631642999903,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631643003649,"level":20,"msg":"On window.close: close to tray disabled, quitting!","name":"m/reac/winds"}
+{"time":1631643006129,"level":30,"msg":"itch@25.5.1 on electron@10.4.5 in production"}
+{"time":1631643006131,"level":20,"msg":"imported preferences: {\"downloadSelfUpdates\":true,\"offlineMode\":false,\"installLocations\":{},\"defaultInstallLocation\":\"d1db90d5-2d77-40ad-9b89-e028deaf18de\",\"isolateApps\":false,\"closeToTray\":false,\"readyNotification\":true,\"showAdvanced\":false,\"openAtLogin\":false,\"openAsHidden\":false,\"manualGameUpdates\":false,\"preventDisplaySleep\":true,\"preferOptimizedPatches\":false,\"disableBrowser\":false,\"enableTabs\":false,\"lastSuccessfulSetupVersion\":\"25.5.1\",\"importedOldInstallLocations\":true,\"gotMinimizeNotification\":true}","name":"m/reac/preb/load-preferences"}
+{"time":1631643006213,"level":20,"msg":"imported preferences: {\"downloadSelfUpdates\":true,\"offlineMode\":false,\"installLocations\":{},\"defaultInstallLocation\":\"d1db90d5-2d77-40ad-9b89-e028deaf18de\",\"isolateApps\":false,\"closeToTray\":false,\"readyNotification\":true,\"showAdvanced\":false,\"openAtLogin\":false,\"openAsHidden\":false,\"manualGameUpdates\":false,\"preventDisplaySleep\":true,\"preferOptimizedPatches\":false,\"disableBrowser\":false,\"enableTabs\":false,\"lastSuccessfulSetupVersion\":\"25.5.1\",\"importedOldInstallLocations\":true,\"gotMinimizeNotification\":true}","name":"m/reac/preb/load-preferences"}
+{"time":1631643006217,"level":20,"msg":"Registering itch: protocol for session with user agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) itch/25.5.1 Chrome/85.0.4183.121 Electron/10.4.5 Safari/537.36","name":"m/net/register-itch-protocol"}
+{"time":1631643006271,"level":30,"msg":"preboot ran in 59.00ms","name":"m/reac/preboot"}
+{"time":1631643006272,"level":20,"msg":"Updating login item settings, open=false, hidden=false","name":"m/reac/open-at-login"}
+{"time":1631643006272,"level":20,"msg":"Copying /usr/share/applications/io.itch.itch.desktop => /home/user/.config/autostart/io.itch.itch.desktop","name":"m/reac/open-at-login"}
+{"time":1631643006275,"level":20,"msg":"Waiting on root window to dispatch boot","name":"m/reac/winds"}
+{"time":1631643006439,"level":30,"msg":"Setup starting...","name":"🔧 setup"}
+{"time":1631643006449,"level":30,"msg":"Creating broth manager","name":"🔧 setup"}
+{"time":1631643006450,"level":30,"msg":"Ensuring broth dependencies, for startup","name":"🔧 setup"}
+{"time":1631643006451,"level":20,"msg":"Package (itch) got version prefix","name":"🔧 setup"}
+{"time":1631643006460,"level":20,"msg":"Reading local locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631643006464,"level":20,"msg":"Reading remote locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631643006641,"level":30,"msg":"(15.21.0) is chosen and valid","name":"📦 butler"}
+{"time":1631643006641,"level":30,"msg":"Switching to (15.21.0)","name":"📦 butler"}
+{"time":1631643006642,"level":20,"msg":"Package (butler) got version prefix","name":"🔧 setup"}
+{"time":1631643006642,"level":30,"msg":"Refreshing butlerd!","name":"🔧 setup"}
+{"time":1631643006642,"level":30,"msg":"Spinning up butlerd instance 1...","name":"🔧 setup"}
+{"time":1631643006645,"level":30,"msg":"...waiting for endpoint from butlerd instance 1...","name":"🔧 setup"}
+{"time":1631643006648,"level":20,"msg":"spawning /home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup :: --version","name":"📦 itch-setup"}
+{"time":1631643006668,"level":30,"msg":"(1.26.0) is chosen and valid","name":"📦 itch-setup"}
+{"time":1631643006669,"level":30,"msg":"Switching to (1.26.0)","name":"📦 itch-setup"}
+{"time":1631643006669,"level":30,"msg":"Already set up 25.5.1 once, delaying components upgrade check","name":"🔧 setup"}
+{"time":1631643006669,"level":20,"msg":"Waiting for butler promise...","name":"🔧 setup"}
+{"time":1631643006670,"level":20,"msg":"Package (itch-setup) got version prefix","name":"🔧 setup"}
+{"time":1631643006718,"level":30,"msg":"...for butlerd instance 1 got endpoint 127.0.0.1:42761","name":"🔧 setup"}
+{"time":1631643006732,"level":30,"msg":"Now speaking with butlerd instance 1, version v15.21.0, built on May 11 2021 @ 12:18:40, ref 6ad656eebbb5b80bf2065644d8bf9e40a15e8276, endpoint 127.0.0.1:42761","name":"🔧 setup"}
+{"time":1631643006733,"level":20,"msg":"Syncing install locations...","name":"🔧 setup"}
+{"time":1631643006733,"level":20,"msg":"Calling Install.Locations.List","name":"mcall"}
+{"time":1631643006734,"level":20,"msg":"Downloads driver reacting to gotButlerdEndpoint, cancelling state...","name":"m/reac/down/driver"}
+{"time":1631643006734,"level":20,"msg":"Not cancelling, current phase is 0","name":"m/reac/down/driver-persistent-state"}
+{"time":1631643006734,"level":20,"msg":"Downloads driver reacting to gotButlerdEndpoint, state is cancelled...","name":"m/reac/down/driver"}
+{"time":1631643006734,"level":20,"msg":"Download driver polling...","name":"m/reac/down/driver"}
+{"time":1631643006734,"level":20,"msg":"Calling Downloads.List","name":"mcall"}
+{"time":1631643006735,"level":20,"msg":"Dispatching setup done!","name":"🔧 setup"}
+{"time":1631643006736,"level":30,"msg":"Setup done","name":"🔧 setup"}
+{"time":1631643006736,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631643006737,"level":30,"msg":"Scanning install locations for items...","name":"m/reac/silent-location-scan"}
+{"time":1631643006737,"level":20,"msg":"Calling Install.Locations.Scan","name":"mcall"}
+{"time":1631643006742,"level":30,"msg":"Using tray image (/home/user/.itch/app-25.5.1/resources/app/src/static/images/tray/itch.png)"}
+{"time":1631643006745,"level":30,"msg":"• Scanning install location /home/user/.config/itch/apps...","name":"m/reac/silent-location-scan"}
+{"time":1631643006745,"level":30,"msg":"• Scanning install location /home/user/Games/Non-Emulation/Itchio...","name":"m/reac/silent-location-scan"}
+{"time":1631643006738,"level":20,"msg":"Calling Profile.List","name":"rcall"}
+{"time":1631643007217,"level":30,"msg":"Language settings: preference undefined, sniffed en-GB, fallback en","name":"m/reac/i18n"}
+{"time":1631643007221,"level":20,"msg":"Reading local locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631643007223,"level":20,"msg":"Reading remote locale file /home/user/.itch/app-25.5.1/resources/app/src/static/locales/en.json","name":"m/reac/locales"}
+{"time":1631643007223,"level":20,"msg":"Calling Profile.List","name":"rcall"}
+{"time":1631643007816,"level":30,"msg":"Attempting saved login for profile 566461","name":"m/reac/login"}
+{"time":1631643007816,"level":20,"msg":"Calling Profile.UseSavedLogin","name":"mcall"}
+{"time":1631643007818,"level":30,"msg":"• Validating credentials...","name":"m/reac/login"}
+{"time":1631643008124,"level":30,"msg":"• Logged in! (online)","name":"m/reac/login"}
+{"time":1631643008124,"level":30,"msg":"Saved login succeeded!","name":"m/reac/login"}
+{"time":1631643008124,"level":30,"msg":"Login succeeded, setting up session","name":"m/reac/login"}
+{"time":1631643008125,"level":30,"msg":"Registering itch protocol for session persist:itchio-566461","name":"m/reac/login"}
+{"time":1631643008126,"level":20,"msg":"Registering itch: protocol for session with user agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) itch/25.5.1 Chrome/85.0.4183.121 Electron/10.4.5 Safari/537.36","name":"m/net/register-itch-protocol"}
+{"time":1631643008126,"level":30,"msg":"Restoring tabs...","name":"m/reac/login"}
+{"time":1631643008126,"level":20,"msg":"Calling Profile.Data.Get","name":"mcall"}
+{"time":1631643008132,"level":30,"msg":"Dispatching login succeeded","name":"m/reac/login"}
+{"time":1631643008132,"level":30,"msg":"Fetching owned keys...","name":"m/reac/login"}
+{"time":1631643008132,"level":20,"msg":"Calling Fetch.ProfileOwnedKeys","name":"mcall"}
+{"time":1631643008134,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643008135,"level":20,"msg":"Download driver polling...","name":"m/reac/down/driver"}
+{"time":1631643008135,"level":20,"msg":"Not paused... current phase: IDLE","name":"m/reac/down/driver"}
+{"time":1631643008135,"level":20,"msg":"IDLE => STARTING","name":"m/reac/down/driver-persistent-state"}
+{"time":1631643008135,"level":20,"msg":"Calling Downloads.Drive","name":"mcall"}
+{"time":1631643008135,"level":20,"msg":"STARTING => RUNNING","name":"m/reac/down/driver-persistent-state"}
+{"time":1631643008135,"level":30,"msg":"Downloads started","name":"m/reac/down/driver-persistent-state"}
+{"time":1631643008135,"level":30,"msg":"Fetching fresh data...","name":"m/reac/login"}
+{"time":1631643008135,"level":30,"msg":"Fetching page 1","name":"m/reac/login"}
+{"time":1631643008137,"level":30,"msg":"Now driving downloads...","name":"m/reac/down/driver"}
+{"time":1631643008162,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643008185,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631643008208,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643008209,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643008366,"level":30,"msg":"Fetching page 2","name":"m/reac/login"}
+{"time":1631643008468,"level":30,"msg":"Fetching page 3","name":"m/reac/login"}
+{"time":1631643008530,"level":30,"msg":"Waited 395.017482ms for fetch (non-shared)","name":"m/reac/login"}
+{"time":1631643008531,"level":30,"msg":"Fetched owned keys in 399.00ms","name":"m/reac/login"}
+{"time":1631643008634,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643009217,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631643009228,"level":20,"msg":"Downloading fresh locale file from https://locales.itch.ovh/itch/en.json","name":"m/reac/locales"}
+{"time":1631643009228,"level":20,"msg":"HTTP get https://locales.itch.ovh/itch/en.json","name":"r"}
+{"time":1631643009553,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631643009623,"level":20,"msg":"HTTP GET https://locales.itch.ovh/itch/en.json: 200","name":"m/reac/locales"}
+{"time":1631643009624,"level":20,"msg":"Saving fresh en locale to /home/user/.config/itch/locales/en.json","name":"m/reac/locales"}
+{"time":1631643010496,"level":20,"msg":"Calling Install.Locations.List","name":"mcall"}
+{"time":1631643010497,"level":20,"msg":"Calling Install.Locations.GetByID","name":"mcall"}
+{"time":1631643012746,"level":20,"msg":"Calling Install.Locations.Remove","name":"mcall"}
+{"time":1631643012747,"level":30,"msg":"✓ Found 0 caves in install location"}
+{"time":1631643012747,"level":30,"msg":"✓ No downloads in progress"}
+{"time":1631643012749,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631643012749,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643012905,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631643012906,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643012907,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643012908,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643021214,"level":20,"msg":"spawning /home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup :: --appname ::: itch ::: --upgrade","name":"m/brot/itch-setup"}
+{"time":1631643021227,"level":20,"msg":"> 2021/09/14 12:10:21 itch-setup will log to /tmp/itch-setup-log.txt","name":"📦 self"}
+{"time":1631643021227,"level":20,"msg":"> 2021/09/14 12:10:21 =========================================","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 itch-setup \"v1.26.0, built on Apr 21 2021 @ 19:48:12, ref 48f97b3e7b0b065a2478811b8d0ebcae414845fd\" starting up at \"2021-09-14 12:10:21.227626178 -0600 MDT m=+0.002467169\" with arguments:","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 \"/home/user/.config/itch/broth/itch-setup/versions/1.26.0/itch-setup\"","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 \"--appname\"","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 \"itch\"","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 \"--upgrade\"","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 =========================================","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 App name specified on command-line: itch","name":"📦 self"}
+{"time":1631643021228,"level":20,"msg":"> 2021/09/14 12:10:21 Locale:  en-CA","name":"📦 self"}
+{"time":1631643021235,"level":20,"msg":"> 2021/09/14 12:10:21 Initializing installer GUI...","name":"📦 self"}
+{"time":1631643021235,"level":20,"msg":"> 2021/09/14 12:10:21 Using GTK UI","name":"📦 self"}
+{"time":1631643021267,"level":20,"msg":"> 2021/09/14 12:10:21 Initializing (itch) multiverse @ (/home/user/.itch)","name":"📦 self"}
+{"time":1631643021267,"level":20,"msg":"> 2021/09/14 12:10:21 (/home/user/.itch)(current = \"25.5.1\", ready = \"\")","name":"📦 self"}
+{"time":1631643022314,"level":20,"msg":"> 2021/09/14 12:10:22 Installed 25.5.1","name":"📦 self"}
+{"time":1631643022314,"level":20,"msg":"> 2021/09/14 12:10:22 Latest    25.5.1","name":"📦 self"}
+{"time":1631643022314,"level":20,"msg":"> 2021/09/14 12:10:22 We're up-to-date!","name":"📦 self"}
+{"time":1631643022317,"level":20,"msg":"Trying to satisfy semver constraint (^15.20.0)","name":"📦 butler"}
+{"time":1631643022318,"level":20,"msg":"GET (https://broth.itch.ovh/butler/linux-amd64/versions)","name":"📦 butler"}
+{"time":1631643022318,"level":20,"msg":"HTTP get https://broth.itch.ovh/butler/linux-amd64/versions","name":"r"}
+{"time":1631643023143,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631643023146,"level":30,"msg":"Latest is (15.21.0)","name":"📦 butler"}
+{"time":1631643023146,"level":30,"msg":"Already the active version, nothing to do","name":"📦 butler"}
+{"time":1631643023149,"level":20,"msg":"Present versions: 15.21.0","name":"📦 butler"}
+{"time":1631643023150,"level":20,"msg":"Trying to satisfy semver constraint (^1.8.0)","name":"📦 itch-setup"}
+{"time":1631643023150,"level":20,"msg":"GET (https://broth.itch.ovh/itch-setup/linux-amd64/versions)","name":"📦 itch-setup"}
+{"time":1631643023150,"level":20,"msg":"HTTP get https://broth.itch.ovh/itch-setup/linux-amd64/versions","name":"r"}
+{"time":1631643023707,"level":20,"msg":"Got HTTP 200, content-length: 0 B","name":"r"}
+{"time":1631643023708,"level":30,"msg":"Latest is (1.26.0)","name":"📦 itch-setup"}
+{"time":1631643023708,"level":30,"msg":"Already the active version, nothing to do","name":"📦 itch-setup"}
+{"time":1631643023709,"level":20,"msg":"Present versions: 1.26.0","name":"📦 itch-setup"}
+{"time":1631643036214,"level":30,"msg":"Regularly scheduled check for game updates...","name":"m/reac/updater"}
+{"time":1631643036216,"level":30,"msg":"Scheduling next game update check for Tue Sep 14 2021 12:35:09 GMT-0600 (Mountain Daylight Time)","name":"m/reac/updater"}
+{"time":1631643036216,"level":20,"msg":"Calling CheckUpdate","name":"mcall"}
+{"time":1631643036218,"level":30,"msg":"Looking for updates to 0 items...","name":"m/reac/updater"}
+{"time":1631643036218,"level":30,"msg":"✓ Checked 0 entries in 221.098µs","name":"m/reac/updater"}
+{"time":1631643046927,"level":30,"msg":"• Scanning 19 entries","name":"m/reac/silent-location-scan"}
+{"time":1631643046928,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/21-the-world)","name":"m/reac/silent-location-scan"}
+{"time":1631643047046,"level":30,"msg":"Reading installed at from date 2021-03-03T17:58:05Z","name":"m/reac/silent-location-scan"}
+{"time":1631643047047,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631643047060,"level":20,"msg":"Filtering 1 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631643047061,"level":20,"msg":"Reviewing (#21 The World/21-the-world.x86) flavor linux","name":"m/reac/silent-location-scan"}
+{"time":1631643047061,"level":30,"msg":"✓ Configured in 13.05228ms","name":"m/reac/silent-location-scan"}
+{"time":1631643047061,"level":30,"msg":"Found #21: The World - https://lsddev.itch.io/21-the-world","name":"m/reac/silent-location-scan"}
+{"time":1631643047063,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/aieyes)","name":"m/reac/silent-location-scan"}
+{"time":1631643047175,"level":30,"msg":"Reading installed at from date 2021-07-08T22:38:47Z","name":"m/reac/silent-location-scan"}
+{"time":1631643047175,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"Filtering 2 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"Reviewing (Pix2Pix.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"Excluding (Pix2Pix.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"Reviewing (UnityCrashHandler64.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"Excluding (UnityCrashHandler64.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"Oh boy, we're on 64-bit Linux, let's filter some stuff","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"No native 64-bit Linux candidates, looking for jars","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":20,"msg":"Sorted candidates: ","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":30,"msg":"✓ Configured in 18.926498ms","name":"m/reac/silent-location-scan"}
+{"time":1631643047195,"level":30,"msg":"Found AIeyes - https://tmdev.itch.io/aieyes","name":"m/reac/silent-location-scan"}
+{"time":1631643047196,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/anatomy)","name":"m/reac/silent-location-scan"}
+{"time":1631643047312,"level":30,"msg":"Reading installed at from date 2021-03-15T00:59:59Z","name":"m/reac/silent-location-scan"}
+{"time":1631643047312,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Filtering 3 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Reviewing (Anatomy.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Excluding (Anatomy.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Reviewing (Anatomy.x86) flavor linux","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Reviewing (Anatomy.x86_64) flavor linux","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Oh boy, we're on 64-bit Linux, let's filter some stuff","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Found some native 64-bit Linux candidates, excluding all others","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"Sorted candidates: ","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":20,"msg":"- [100] (Anatomy.x86_64)","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":30,"msg":"✓ Configured in 18.165815ms","name":"m/reac/silent-location-scan"}
+{"time":1631643047330,"level":30,"msg":"Found ANATOMY - https://kittyhorrorshow.itch.io/anatomy","name":"m/reac/silent-location-scan"}
+{"time":1631643047331,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/buddy-simulator-1984-demo)","name":"m/reac/silent-location-scan"}
+{"time":1631643047447,"level":30,"msg":"Reading installed at from date 2021-03-15T01:06:58Z","name":"m/reac/silent-location-scan"}
+{"time":1631643047447,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"Filtering 2 candidates to os (linux), arch (amd64)","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"Reviewing (Buddy Simulator 1984 Demo.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"Excluding (Buddy Simulator 1984 Demo.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"Reviewing (UnityCrashHandler32.exe) flavor windows","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"Excluding (UnityCrashHandler32.exe) - windows native, os filter is (linux)","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"Oh boy, we're on 64-bit Linux, let's filter some stuff","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"No native 64-bit Linux candidates, looking for jars","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":20,"msg":"Sorted candidates: ","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":30,"msg":"✓ Configured in 21.071498ms","name":"m/reac/silent-location-scan"}
+{"time":1631643047468,"level":30,"msg":"Found Buddy Simulator 1984 DEMO - https://notasailorstudios.itch.io/buddy-simulator-1984-demo","name":"m/reac/silent-location-scan"}
+{"time":1631643047469,"level":30,"msg":"Item (/home/user/Games/Non-Emulation/Itchio/chain)","name":"m/reac/silent-location-scan"}
+{"time":1631643047599,"level":30,"msg":"Reading installed at from date 2021-07-20T17:11:49Z","name":"m/reac/silent-location-scan"}
+{"time":1631643047600,"level":30,"msg":"• Configuring cave for 64-bit Linux","name":"m/reac/silent-location-scan"}
+{"time":1631643049553,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643053381,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643053883,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643054307,"level":20,"msg":"Calling Install.Locations.Add","name":"mcall"}
+{"time":1631643054310,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631643054311,"level":30,"msg":"Scanning install locations for items...","name":"m/reac/silent-location-scan"}
+{"time":1631643054311,"level":20,"msg":"Calling Install.Locations.Scan","name":"mcall"}
+{"time":1631643054314,"level":30,"msg":"• Scanning install location /home/user/.config/itch/apps...","name":"m/reac/silent-location-scan"}
+{"time":1631643054314,"level":30,"msg":"• Scanning install location /home/user/Games/Non-Emulation/itch...","name":"m/reac/silent-location-scan"}
+{"time":1631643054314,"level":30,"msg":"No items found","name":"m/reac/silent-location-scan"}
+{"time":1631643054314,"level":30,"msg":"Scan complete.","name":"m/reac/silent-location-scan"}
+{"time":1631643054316,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631643054383,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643054537,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631643054541,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643054542,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643054550,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643056797,"level":20,"msg":"Calling Install.Locations.List","name":"mcall"}
+{"time":1631643056799,"level":20,"msg":"Calling Install.Locations.GetByID","name":"mcall"}
+{"time":1631643058095,"level":20,"msg":"Calling Install.Locations.Remove","name":"mcall"}
+{"time":1631643058096,"level":30,"msg":"✓ Found 0 caves in install location"}
+{"time":1631643058096,"level":30,"msg":"✓ No downloads in progress"}
+{"time":1631643058098,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631643058098,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643058254,"level":20,"msg":"Calling Install.Locations.List","name":"rcall"}
+{"time":1631643058255,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643058256,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643058256,"level":20,"msg":"Calling Fetch.Caves","name":"rcall"}
+{"time":1631643060054,"level":20,"msg":"Navigating to itch://scan-install-locations/ ","name":"m/reac/navigation"}
+{"time":1631643060066,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643060296,"level":20,"msg":"Calling Install.Locations.Scan","name":"rcall"}
+{"time":1631643060332,"level":30,"msg":"• Scanning install location /home/user/Games/Non-Emulation/itch..."}
+{"time":1631643060336,"level":30,"msg":"No items found"}
+{"time":1631643060343,"level":20,"msg":"Calling Fetch.Caves","name":"mcall"}
+{"time":1631643060567,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643061067,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643061932,"level":20,"msg":"Calling Profile.Data.Put","name":"mcall"}
+{"time":1631643062433,"level":20,"msg":"Calling Fetch.Commons","name":"mcall"}
+{"time":1631643063598,"level":20,"msg":"Navigating to itch://featured/ ","name":"m/reac/navigation"}
+{"time":1631643063700,"level":20,"msg":"Loading url 'https://itch.io'","name":"m/reac/web-contents"}
+{"time":1631643064259,"level":20,"msg":"\n","name":"m/reac/web-contents"}
+{"time":1631643064259,"level":20,"msg":"=================================","name":"m/reac/web-contents"}
+{"time":1631643064259,"level":20,"msg":"commit https://itch.io/, reason did-navigate","name":"m/reac/web-contents"}
+{"time":1631643064259,"level":20,"msg":"currentIndex 1 pendingIndex -1 inPageIndex -1 inPage false","name":"m/reac/web-contents"}
+{"time":1631643064259,"level":20,"msg":"WebContents history:","name":"m/reac/web-contents"}
+{"time":1631643064259,"level":20,"msg":"W|<   about:blank","name":"m/reac/web-contents"}
+{"time":1631643064259,"level":20,"msg":"W|  > https://itch.io/","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"---------------------------------","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"State history:","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"S|   itch://library","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"S|   https://itch.io/","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"S|   itch://locations","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"S| > https://itch.io","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"pushing webContents title https://itch.io","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"History grew one, offset is 1","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"Replacing because previous web url \nabout:blank\n is not current state url \nhttps://itch.io","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"---------------------------------","name":"m/reac/web-contents"}
+{"time":1631643064260,"level":20,"msg":"State history:","name":"m/reac/web-contents"}
+{"time":1631643064261,"level":20,"msg":"S|   itch://library","name":"m/reac/web-contents"}
+{"time":1631643064261,"level":20,"msg":"S|   https://itch.io/","name":"m/reac/web-contents"}
+{"time":1631643064261,"level":20,"msg":"S|   itch://locations","name":"m/reac/web-contents"}
+{"time":1631643064261,"level":20,"msg":"S| > https://itch.io/","name":"m/reac/web-contents"}
+{"time":1631643065092,"level":20,"msg":"did-finish-load (once)","name":"m/reac/web-contents"}
+{"time":1631643065701,"level":20,"msg":"On window.close: close to tray disabled, quitting!","name":"m/reac/winds"}
+{"time":1631643065706,"level":20,"msg":"Tab initial-tab losing web contents!","name":"m/reac/web-contents"}
+{"time":1631643065708,"level":20,"msg":"Tab initial-tab losing web contents!","name":"m/reac/web-contents"}

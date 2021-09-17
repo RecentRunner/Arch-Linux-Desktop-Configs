@@ -1,0 +1,6 @@
+system:
+  aco: true
+  pulse_latency: true
+wine:
+  esync: true
+  fsync: true

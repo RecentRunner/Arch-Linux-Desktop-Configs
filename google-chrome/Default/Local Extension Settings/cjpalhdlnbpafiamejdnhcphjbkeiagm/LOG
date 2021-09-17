@@ -1,0 +1,20 @@
+2021/09/12-16:46:35.880 13822 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/09/12-16:46:35.880 13822 Recovering log #10
+2021/09/12-16:46:35.882 13822 Reusing old log /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000010.log 
+2021/09/12-16:53:43.340 13dad Level-0 table #14: started
+2021/09/12-16:53:43.357 13dad Level-0 table #14: 1424194 bytes OK
+2021/09/12-16:53:43.359 13dad Delete type=0 #10
+2021/09/12-17:03:14.918 13fa6 Level-0 table #16: started
+2021/09/12-17:03:14.939 13fa6 Level-0 table #16: 2235409 bytes OK
+2021/09/12-17:03:14.941 13fa6 Delete type=0 #13
+2021/09/12-17:03:14.942 13fa6 Compacting 4@0 + 1@1 files
+2021/09/12-17:03:14.961 13fa6 Generated table #17@0: 17 keys, 2617410 bytes
+2021/09/12-17:03:14.979 13fa6 Generated table #18@0: 6 keys, 2342789 bytes
+2021/09/12-17:03:14.991 13fa6 Generated table #19@0: 12 keys, 745024 bytes
+2021/09/12-17:03:14.992 13fa6 Compacted 4@0 + 1@1 files => 5705223 bytes
+2021/09/12-17:03:14.993 13fa6 compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/09/12-17:03:14.994 13fa6 Delete type=2 #7
+2021/09/12-17:03:14.994 13fa6 Delete type=2 #9
+2021/09/12-17:03:14.994 13fa6 Delete type=2 #11
+2021/09/12-17:03:14.994 13fa6 Delete type=2 #14
+2021/09/12-17:03:14.994 13fa6 Delete type=2 #16

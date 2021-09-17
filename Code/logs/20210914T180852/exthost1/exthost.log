@@ -1,0 +1,166 @@
+[2021-09-14 18:08:54.221] [exthost] [info] extension host started
+[2021-09-14 18:08:54.221] [exthost] [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/320f9158b6aba54d0b7cd60e3ddbc674.
+[2021-09-14 18:08:54.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-14 18:08:54.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-14 18:08:54.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-14 18:08:54.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-14 18:08:54.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 18:08:54.302] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-14 18:08:54.360] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-14 18:08:54.361] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-14 18:08:54.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 18:08:54.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-14 18:08:54.499] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-14 18:08:54.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-14 18:08:54.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-14 18:08:54.711] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-14 18:08:54.743] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer {"startup":true,"extensionId":{"value":"matklad.rust-analyzer","_lower":"matklad.rust-analyzer"},"activationEvent":"workspaceContains:**/Cargo.toml"}
+[2021-09-14 18:08:54.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/matklad.rust-analyzer-0.2.735/out/main
+[2021-09-14 18:09:00.439] [exthost] [info] eager extensions activated
+[2021-09-14 18:09:00.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:09:00.445] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-14 18:09:00.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:09:00.460] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-14 18:09:00.464] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:09:00.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-09-14 18:10:58.272] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-14 18:10:58.286] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+	at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+	at _doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110315)
+	at _.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:109861)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:21652)
+	at fc (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.735/out/main.js:50:4098)
+	at Object.Tv (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.735/out/main.js:96:1596)
+	at v._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11277)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9991
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9979)
+	at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:723)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-09-14 18:10:59.281] [exthost] [info] exiting with code 0
+[2021-09-14 18:10:59.806] [exthost] [info] extension host started
+[2021-09-14 18:10:59.806] [exthost] [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/320f9158b6aba54d0b7cd60e3ddbc674.
+[2021-09-14 18:10:59.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-14 18:10:59.845] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-14 18:10:59.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-14 18:10:59.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-14 18:10:59.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 18:10:59.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-14 18:10:59.869] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-14 18:10:59.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-14 18:10:59.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 18:10:59.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-14 18:11:00.039] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-14 18:11:00.039] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-14 18:11:00.115] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer {"startup":true,"extensionId":{"value":"matklad.rust-analyzer","_lower":"matklad.rust-analyzer"},"activationEvent":"workspaceContains:**/Cargo.toml"}
+[2021-09-14 18:11:00.116] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main
+[2021-09-14 18:11:00.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-14 18:11:00.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-14 18:11:02.004] [exthost] [info] eager extensions activated
+[2021-09-14 18:11:02.012] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:11:02.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-14 18:11:02.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:11:02.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-14 18:11:02.017] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:11:02.017] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-09-14 18:11:18.619] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-14 18:11:18.630] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+	at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+	at _doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110315)
+	at _.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:109861)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:21652)
+	at fc (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main.js:50:4098)
+	at Object.Tv (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main.js:96:1596)
+	at v._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11277)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9991
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9979)
+	at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:723)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-09-14 18:11:19.628] [exthost] [info] exiting with code 0
+[2021-09-14 18:11:20.068] [exthost] [info] extension host started
+[2021-09-14 18:11:20.068] [exthost] [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/320f9158b6aba54d0b7cd60e3ddbc674.
+[2021-09-14 18:11:20.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-14 18:11:20.140] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-14 18:11:20.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-14 18:11:20.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-14 18:11:20.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 18:11:20.152] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-14 18:11:20.165] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-14 18:11:20.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-14 18:11:20.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 18:11:20.251] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-14 18:11:20.262] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-14 18:11:20.262] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-14 18:11:20.362] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-14 18:11:20.362] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-14 18:11:20.368] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer {"startup":true,"extensionId":{"value":"matklad.rust-analyzer","_lower":"matklad.rust-analyzer"},"activationEvent":"workspaceContains:**/Cargo.toml"}
+[2021-09-14 18:11:20.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main
+[2021-09-14 18:11:20.538] [exthost] [info] eager extensions activated
+[2021-09-14 18:11:20.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:11:20.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-14 18:11:20.551] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:11:20.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-14 18:13:57.540] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-14 18:13:57.551] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+	at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+	at _doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110315)
+	at _.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:109861)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:21652)
+	at fc (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main.js:50:4098)
+	at Object.Tv (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main.js:96:1596)
+	at v._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11277)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9991
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9979)
+	at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:723)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-09-14 18:13:58.547] [exthost] [info] exiting with code 0
+[2021-09-14 18:13:58.835] [exthost] [info] extension host started
+[2021-09-14 18:13:58.836] [exthost] [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/320f9158b6aba54d0b7cd60e3ddbc674.
+[2021-09-14 18:13:59.135] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer {"startup":true,"extensionId":{"value":"matklad.rust-analyzer","_lower":"matklad.rust-analyzer"},"activationEvent":"workspaceContains:**/Cargo.toml"}
+[2021-09-14 18:13:59.135] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main
+[2021-09-14 18:13:59.233] [exthost] [info] eager extensions activated
+[2021-09-14 18:13:59.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-14 18:13:59.238] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-14 18:14:23.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-14 18:14:23.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-14 18:14:23.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-14 18:14:23.233] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-14 18:14:23.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-14 18:14:23.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-14 18:14:33.856] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-14 18:14:33.867] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+	at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+	at _doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110315)
+	at _.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:109861)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:21652)
+	at fc (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main.js:50:4098)
+	at Object.Tv (/home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main.js:96:1596)
+	at v._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11277)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9991
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9979)
+	at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:723)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-09-14 18:14:34.861] [exthost] [info] exiting with code 0

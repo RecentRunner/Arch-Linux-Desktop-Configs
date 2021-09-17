@@ -1,0 +1,4 @@
+game:
+  exe: /usr/bin/chad-launcher
+linux: {}
+system: {}

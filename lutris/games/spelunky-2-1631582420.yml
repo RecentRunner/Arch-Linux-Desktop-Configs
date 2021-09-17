@@ -1,0 +1,7 @@
+game:
+  exe: /home/user/Games/Non-Emulation/SteamLibrary/steamapps/common/Spelunky 2/Spel2.exe
+system:
+  aco: true
+wine:
+  esync: true
+  fsync: true

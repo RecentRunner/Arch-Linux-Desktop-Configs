@@ -1,0 +1,21 @@
+{
+  "data_path": "/home/user/.local/share/chad_launcher",
+  "library_paths": [
+    "/media/Storage/Games/Non-Emulation/chad_launcher"
+  ],
+  "terminal": "xfce4-terminal",
+  "script_blacklist": [
+    "winetricks",
+    "chad.sh"
+  ],
+  "torrent": {
+    "clients": {
+      "qBittorrent": {
+        "backend": "qbittorrent",
+        "host": "http://localhost:8080",
+        "username": "admin",
+        "password": "500211007"
+      }
+    }
+  }
+}

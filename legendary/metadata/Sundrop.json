@@ -1,0 +1,1366 @@
+{
+  "app_name": "Sundrop",
+  "app_title": "For Honor",
+  "app_version": "1901",
+  "asset_info": {
+    "app_name": "Sundrop",
+    "asset_id": "Sundrop",
+    "build_version": "1901",
+    "catalog_item_id": "edfd412a16f445589ad4a43589d7644b",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "sundrop"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-02-11T17:23:29.967Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ForHonor"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "sundrop"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Ubisoft"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "91808802f644410d8b5b58b2e0ca36cf"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "For Honor",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-26T20:12:03.424Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "666064ca08cd4889ab3b2b1dadb59d7e"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 1",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "52b1b3a1ab5544a699edb816aef57f26",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "52b1b3a1ab5544a699edb816aef57f26",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 809,
+            "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+            "size": 626179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-07-26T19:24:39.288Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+            "width": 1298
+          },
+          {
+            "height": 1825,
+            "md5": "efb91b2fc8c56c1c698471472f244150",
+            "size": 282425,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-07-26T19:24:45.875Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+            "width": 1900
+          }
+        ],
+        "lastModifiedDate": "2020-12-10T15:22:04.267Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropYear1",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "8482f0fc693d4381be7805ef9a212a64",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "For Honor Year 1",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-26T20:02:18.764Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "6f84b313a2f7413e9ad09c6bf77a605e"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Marching Fire Expansion Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "4c224a7755cc46b69d9d2127a0e9c2ed",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4c224a7755cc46b69d9d2127a0e9c2ed",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 809,
+            "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+            "size": 626179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-07-26T19:24:39.288Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+            "width": 1298
+          },
+          {
+            "height": 1825,
+            "md5": "efb91b2fc8c56c1c698471472f244150",
+            "size": 282425,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-07-26T19:24:45.875Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+            "width": 1900
+          }
+        ],
+        "lastModifiedDate": "2020-12-10T15:22:04.267Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropFirePack",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "6ac046f5fd194c42889bb6b92a3b6e7e",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "For Honor Marching Fire Expansion Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-26T20:15:54.653Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "0eadddbf00fc4e86bce51ad858aef1a4"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 3",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "c5643c49a6be40739ae1da5ae9ec5a43",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c5643c49a6be40739ae1da5ae9ec5a43",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 809,
+            "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+            "size": 626179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-07-26T19:24:39.288Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+            "width": 1298
+          },
+          {
+            "height": 1825,
+            "md5": "efb91b2fc8c56c1c698471472f244150",
+            "size": 282425,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-07-26T19:24:45.875Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+            "width": 1900
+          }
+        ],
+        "lastModifiedDate": "2020-12-10T15:22:04.267Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropYear3",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "4a08f20834dd4d6cbef674f1cd388dfa",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "For Honor Year 3",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-04T01:54:08.549Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "6a4ea9c528494cd499c5a7f203b5843e"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 4",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "9c01a69b0985451e9653ca653258c40e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9c01a69b0985451e9653ca653258c40e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 809,
+            "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+            "size": 626179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-07-26T19:24:39.288Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+            "width": 1298
+          },
+          {
+            "height": 1825,
+            "md5": "efb91b2fc8c56c1c698471472f244150",
+            "size": 282425,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-07-26T19:24:45.875Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+            "width": 1900
+          }
+        ],
+        "lastModifiedDate": "2020-12-10T15:22:04.267Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY4",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "For Honor Year 4",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-10T17:24:29.978Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "9f7720d7e2ca47299e9664adac23c920"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 4 Season 2 Battle Bundle",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "736c7626bff146ea912362267ac99c83",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "736c7626bff146ea912362267ac99c83",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-10T15:22:04.267Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY4S2BB",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "For Honor Year 4 Season 2 Battle Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-10T17:12:38.632Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "ca5a856eb39f487081f545b3e86fe7c0"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 4 Season 2 Battle Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "103f8dfd9d5e403286d59fc8b5ca057d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "103f8dfd9d5e403286d59fc8b5ca057d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-10T15:22:04.267Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY4S2BP",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "For Honor Year 4 Season 2 Battle Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-07-30T19:23:43.233Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "5fd0f65de1f54547868fca889ed79e59"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Warmonger DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "d49be8b7aac64c9689e9e5c9ecfeb764",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d49be8b7aac64c9689e9e5c9ecfeb764",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 809,
+            "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+            "size": 626179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-07-26T19:24:39.288Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+            "width": 1298
+          },
+          {
+            "height": 1825,
+            "md5": "efb91b2fc8c56c1c698471472f244150",
+            "size": 282425,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-07-26T19:24:45.875Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+            "width": 1900
+          }
+        ],
+        "lastModifiedDate": "2020-12-10T15:22:04.267Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropWDLC",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Warmonger DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-04T18:19:30.263Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "54030dc1724c4baab36cb90d1388a2f4"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 4 Season 4 Battle Pass Premium",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "55ce433420774cb49c4cb0b9a0b33659",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "55ce433420774cb49c4cb0b9a0b33659",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-09T15:43:12.707Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY4S4BPP",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 4 Season 4 Battle Pass Premium",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-04T18:22:35.147Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "dbdbeb3c6b1c481da4938d866cf4d4f5"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 4 Season 4 Battle Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "85c4298b357f47f5b16207f96af19ee6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "85c4298b357f47f5b16207f96af19ee6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-09T15:43:12.707Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY4S4BP",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 4 Season 4 Battle Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-04T18:24:14.956Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "6c446f55abff4866993e9d47fa33bcb1"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor GRY DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "f486e8e4716e435fa240991ecb2b7cd1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f486e8e4716e435fa240991ecb2b7cd1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 809,
+            "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+            "size": 626179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-07-26T19:24:39.288Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+            "width": 1298
+          },
+          {
+            "height": 1825,
+            "md5": "efb91b2fc8c56c1c698471472f244150",
+            "size": 282425,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-07-26T19:24:45.875Z",
+            "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+            "width": 1900
+          }
+        ],
+        "lastModifiedDate": "2020-12-10T15:22:04.268Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropGRYDLC",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor GRY DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-03-05T04:42:39.923Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "bdea3ac9314c46ada50cb28ec46e9689"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 5 Season 1 Battle Bundle",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "683194a908eb4ac7ba9d29b3a757c2a7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "683194a908eb4ac7ba9d29b3a757c2a7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-11T15:44:35.584Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "ForHonorY5S1BB",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 5 Season 1 Battle Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-03-05T04:29:12.506Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "95545baee061400dbe2585ea182152be"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 5 Season 1 Battle Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "935718b245d64b90bad8eb0902a08cb2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "935718b245d64b90bad8eb0902a08cb2",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-11T15:44:35.584Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY5S1BP",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "c30901230d8e439aaa435f49fa3abecf",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 5 Season 1 Battle Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-07T21:41:20.055Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "d5a67bc4d0c34c9aaa4088d1d4a14e44"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 5 Season 2 Battle Bundle",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "743058813d704507a6042ec016dd8d3b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "743058813d704507a6042ec016dd8d3b",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-06-10T15:32:50.489Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "ForHonorY5S2BB",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "b0775dd2fe9343e7abb8dc1ccd477cc2",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 5 Season 2 Battle Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-07T21:43:59.639Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "3fa375c07bce4adba8f48deb1bce53ae"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 5 Season 2 Battle Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "389669706c854ed18f195ed2901eac2a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "389669706c854ed18f195ed2901eac2a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-06-10T15:32:50.489Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY5S2BP",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "4d74a27fcc5f4e1d8ad1e8df21d3af14",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 5 Season 2 Battle Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-07-13T23:25:00.935Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "503de17584554adda1179da1a4077429"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor KYO DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "77d83021bd89400ab939a59bc249d4ec",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "77d83021bd89400ab939a59bc249d4ec",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "63acfdd2d991bf3b83cec656153b6b67",
+            "size": 909782,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-13T23:24:01.273Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HRO_Y5S2_Kyoshin_Store_Landscape_2560x1440_2560x1440-63acfdd2d991bf3b83cec656153b6b67",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d282aca1b7142549b89da0fbdf779bad",
+            "size": 860103,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-13T23:24:35.507Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HRO_Y5S2_Kyoshin_Store_Portrait_1200x1600_1200x1600-d282aca1b7142549b89da0fbdf779bad",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-07-22T14:59:16.722Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropKYODLC",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "4d2bca6f18ae443daa0c8fa6185c64d8",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor KYO DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-08T16:47:08.663Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2e821408f8fa4a3dbc5bc885ab8fbd1f"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 5 Season 3 Battle Bundle",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "ca9c46882b4a49f98152714550601097",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ca9c46882b4a49f98152714550601097",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-09-09T14:59:12.368Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "ForHonorY5S3BB",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "b35cc7e636974d8f9dc59b90eb2eafe6",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 5 Season 3 Battle Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-08T16:48:51.923Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "91808802f644410d8b5b58b2e0ca36cf"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "5e885bf8b1014b6892ab82f83d7f5bd7"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "For Honor Year 5 Season 3 Battle Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "d08705f060444c2a8acd9fd378e303a6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d08705f060444c2a8acd9fd378e303a6",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-09-09T14:59:12.369Z",
+        "mainGameItem": {
+          "id": "edfd412a16f445589ad4a43589d7644b",
+          "namespace": "sundrop",
+          "unsearchable": false
+        },
+        "namespace": "sundrop",
+        "releaseInfo": [
+          {
+            "appId": "SundropY5S3BP",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-11T00:00:00.000Z",
+            "id": "ed6a0fa0cee54412bbccd31ce56f4867",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "For Honor Year 5 Season 3 Battle Pass",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "edfd412a16f445589ad4a43589d7644b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "edfd412a16f445589ad4a43589d7644b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 809,
+        "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+        "size": 626179,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-07-26T19:24:39.288Z",
+        "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+        "width": 1298
+      },
+      {
+        "height": 1600,
+        "md5": "5f5feacf17c6a325c2fce2515afbcd1b",
+        "size": 932851,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-18T20:53:08.063Z",
+        "url": "https://cdn1.epicgames.com/sundrop/item/ForHonor_Store_Portrait_1200x1600-1200x1600-5f5feacf17c6a325c2fce2515afbcd1b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-02-18T20:53:16.130Z",
+    "namespace": "sundrop",
+    "releaseInfo": [
+      {
+        "appId": "Sundrop",
+        "compatibleApps": [],
+        "dateAdded": "2019-02-11T00:00:00.000Z",
+        "id": "016594c14e534d80b043f5dbe9c7f50e",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "For Honor",
+    "unsearchable": false
+  }
+}

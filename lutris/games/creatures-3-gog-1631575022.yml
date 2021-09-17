@@ -1,0 +1,12 @@
+game:
+  args: --autokill
+  exe: /home/user/Games/Non-Emulation/gog/creatures-3/drive_c/GOG Games/Creatures
+    Exodus/Launch Creatures Exodus.lnk
+  prefix: /home/user/Games/Non-Emulation/gog/creatures-3
+system:
+  xephyr: 'off'
+  xephyr_fullscreen: false
+wine:
+  Desktop: true
+  WineDesktop: 800x600
+  version: lutris-fshack-6.14-3-x86_64

@@ -1,0 +1,4 @@
+system:
+  aco: true
+  reset_desktop: true
+  xephyr_fullscreen: false

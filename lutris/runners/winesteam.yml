@@ -1,0 +1,4 @@
+system: {}
+winesteam:
+  default_win32_prefix: ~/Games/wineprefix32
+  default_win64_prefix: ~/Games/wineprefix64

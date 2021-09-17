@@ -1,0 +1,5 @@
+game:
+  exe: /home/user/Games/Non-Emulation/Minecraft/MultiMC
+  working_dir: ~/Games/Non-Emulation/Minecraft
+linux: {}
+system: {}

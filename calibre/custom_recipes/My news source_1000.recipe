@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+# vim:fileencoding=utf-8
+from calibre.web.feeds.news import AutomaticNewsRecipe
+
+class BasicUserRecipe1631649876(AutomaticNewsRecipe):
+    title          = 'My news source'
+    oldest_article = 7
+    max_articles_per_feed = 100
+    auto_cleanup   = True
+
+    feeds          = [
+        ('DRAM 203 News', 'https://d2l.ucalgary.ca/d2l/le/news/rss/400912/course?token=ao576jtwpkyhj4zo1ea72'),
+        ('CPSC 471 News', 'https://d2l.ucalgary.ca/d2l/le/news/rss/401082/course?token=ao576jtwpkyhj4zo1ea72'),
+        ('Competitive Programming Club', 'https://d2l.ucalgary.ca/d2l/le/news/rss/403812/course?token=ao576jtwpkyhj4zo1ea72'),
+    ]

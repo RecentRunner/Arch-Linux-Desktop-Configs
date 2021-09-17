@@ -1,0 +1,5 @@
+game:
+  exe: /usr/bin/rare
+linux: {}
+system:
+  postexit_command: kill all rare

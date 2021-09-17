@@ -1,0 +1,124 @@
+{
+  "app_name": "Fennel",
+  "app_title": "The Walking Dead: Michonne",
+  "app_version": "1.0.0.0",
+  "asset_info": {
+    "app_name": "Fennel",
+    "asset_id": "Fennel",
+    "build_version": "1.0.0.0",
+    "catalog_item_id": "9b20b42327b349d4a42ace042eb6f83c",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "fennel"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-03-22T22:02:27.011Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TWDMichonne"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "fennel"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Telltale Games"
+      }
+    },
+    "description": "The Walking Dead: Michonne",
+    "developer": "Skybound Interactive",
+    "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "endOfSupport": false,
+    "entitlementName": "9b20b42327b349d4a42ace042eb6f83c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9b20b42327b349d4a42ace042eb6f83c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 400,
+        "md5": "ed732df0070cc98d5f64833d62f5d0b0",
+        "size": 30767,
+        "type": "Thumbnail",
+        "uploadedDate": "2019-03-26T02:17:23.478Z",
+        "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDMICHONNE_IC2_DarkLogo-400x400-ed732df0070cc98d5f64833d62f5d0b0.png",
+        "width": 400
+      },
+      {
+        "height": 601,
+        "md5": "cb095137a6c756cc1efe4b27d3a048ff",
+        "size": 146777,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-03-26T02:17:45.783Z",
+        "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDMICHONNE_GameBoxWide-1068x601-cb095137a6c756cc1efe4b27d3a048ff.jpg",
+        "width": 1068
+      },
+      {
+        "height": 265,
+        "md5": "252ca2378fe46f3292f994eabea2d3ea",
+        "size": 47218,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-03-26T02:19:20.453Z",
+        "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDMICHONNE_DieselGameLogo-400x265-252ca2378fe46f3292f994eabea2d3ea.png",
+        "width": 400
+      },
+      {
+        "height": 1440,
+        "md5": "05fb51874d0ce6c4b16fa69edcae1cc4",
+        "size": 99834,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDM_GameBoxTall-1280x1440-05fb51874d0ce6c4b16fa69edcae1cc4.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:04:00.142Z",
+    "namespace": "fennel",
+    "releaseInfo": [
+      {
+        "appId": "Fennel",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-22T00:00:00.000Z",
+        "id": "bb03e3ee246a4a75b84f0fd19b987c9d",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Walking Dead: Michonne",
+    "unsearchable": false
+  }
+}

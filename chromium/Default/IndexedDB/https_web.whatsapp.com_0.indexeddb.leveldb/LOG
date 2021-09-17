@@ -1,0 +1,120 @@
+2021/09/14-04:49:09.554 40184 Creating DB /home/user/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2021/09/14-04:49:09.563 40184 Reusing MANIFEST /home/user/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/14-04:50:11.729 40adc Level-0 table #5: started
+2021/09/14-04:50:11.733 40adc Level-0 table #5: 174817 bytes OK
+2021/09/14-04:50:11.735 40adc Delete type=0 #3
+2021/09/14-04:50:11.735 40adc Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/09/14-04:51:01.249 40adc Level-0 table #7: started
+2021/09/14-04:51:01.271 40adc Level-0 table #7: 1276965 bytes OK
+2021/09/14-04:51:01.274 40adc Delete type=0 #4
+2021/09/14-04:51:01.374 40adc Level-0 table #9: started
+2021/09/14-04:51:01.397 40adc Level-0 table #9: 1218226 bytes OK
+2021/09/14-04:51:01.398 40adc Delete type=0 #6
+2021/09/14-04:51:01.498 40ebb Compacting 1@0 + 1@1 files
+2021/09/14-04:51:01.544 40ebb Generated table #10@0: 34406 keys, 2088597 bytes
+2021/09/14-04:51:01.544 40ebb Compacted 1@0 + 1@1 files => 2088597 bytes
+2021/09/14-04:51:01.545 40ebb compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/14-04:51:01.545 40ebb Delete type=2 #7
+2021/09/14-04:51:01.545 40ebb Delete type=2 #9
+2021/09/14-04:51:10.008 40eb9 Compacting 1@1 + 1@2 files
+2021/09/14-04:51:10.042 40eb9 Generated table #11@1: 24627 keys, 2010454 bytes
+2021/09/14-04:51:10.042 40eb9 Compacted 1@1 + 1@2 files => 2010454 bytes
+2021/09/14-04:51:10.043 40eb9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/14-04:51:10.043 40eb9 Delete type=2 #5
+2021/09/14-04:51:10.043 40eb9 Delete type=2 #10
+2021/09/14-04:51:19.439 40eae Level-0 table #13: started
+2021/09/14-04:51:19.455 40eae Level-0 table #13: 1171374 bytes OK
+2021/09/14-04:51:19.457 40eae Delete type=0 #8
+2021/09/14-04:51:19.458 40eae Compacting 1@1 + 1@2 files
+2021/09/14-04:51:19.497 40eae Generated table #14@1: 22751 keys, 2209966 bytes
+2021/09/14-04:51:19.499 40eae Generated table #15@1: 476 keys, 68701 bytes
+2021/09/14-04:51:19.499 40eae Compacted 1@1 + 1@2 files => 2278667 bytes
+2021/09/14-04:51:19.501 40eae compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/09/14-04:51:19.501 40eae Delete type=2 #11
+2021/09/14-04:51:19.501 40eae Delete type=2 #13
+2021/09/14-04:51:19.532 40eb9 Level-0 table #17: started
+2021/09/14-04:51:19.550 40eb9 Level-0 table #17: 1880553 bytes OK
+2021/09/14-04:51:19.553 40eb9 Delete type=0 #12
+2021/09/14-04:51:19.666 40eb9 Compacting 1@1 + 2@2 files
+2021/09/14-04:51:19.697 40eb9 Generated table #18@1: 22779 keys, 2192002 bytes
+2021/09/14-04:51:19.720 40eb9 Generated table #19@1: 16132 keys, 1953078 bytes
+2021/09/14-04:51:19.720 40eb9 Compacted 1@1 + 2@2 files => 4145080 bytes
+2021/09/14-04:51:19.722 40eb9 compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/09/14-04:51:35.539 40ebb Level-0 table #21: started
+2021/09/14-04:51:35.554 40ebb Level-0 table #21: 1239871 bytes OK
+2021/09/14-04:51:35.557 40ebb Delete type=2 #14
+2021/09/14-04:51:35.557 40ebb Delete type=2 #15
+2021/09/14-04:51:35.557 40ebb Delete type=0 #16
+2021/09/14-04:51:35.557 40ebb Delete type=2 #17
+2021/09/14-04:51:35.567 40eae Compacting 1@1 + 2@2 files
+2021/09/14-04:51:35.607 40eae Generated table #22@1: 18732 keys, 2204881 bytes
+2021/09/14-04:51:35.632 40eae Generated table #23@1: 12195 keys, 1586119 bytes
+2021/09/14-04:51:35.632 40eae Compacted 1@1 + 2@2 files => 3791000 bytes
+2021/09/14-04:51:35.634 40eae compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/09/14-04:51:36.094 40adc Level-0 table #25: started
+2021/09/14-04:51:36.113 40adc Level-0 table #25: 1753997 bytes OK
+2021/09/14-04:51:36.115 40adc Delete type=2 #18
+2021/09/14-04:51:36.115 40adc Delete type=2 #19
+2021/09/14-04:51:36.115 40adc Delete type=0 #20
+2021/09/14-04:51:36.115 40adc Delete type=2 #21
+2021/09/14-04:51:36.117 40adc Compacting 1@1 + 2@2 files
+2021/09/14-04:51:36.151 40adc Generated table #26@1: 22198 keys, 2205786 bytes
+2021/09/14-04:51:36.176 40adc Generated table #27@1: 14400 keys, 2206787 bytes
+2021/09/14-04:51:36.182 40adc Generated table #28@1: 2747 keys, 406864 bytes
+2021/09/14-04:51:36.182 40adc Compacted 1@1 + 2@2 files => 4819437 bytes
+2021/09/14-04:51:36.184 40adc compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/09/14-04:51:36.184 40adc Delete type=2 #22
+2021/09/14-04:51:36.184 40adc Delete type=2 #23
+2021/09/14-04:51:36.184 40adc Delete type=2 #25
+2021/09/14-04:51:50.108 40adc Level-0 table #30: started
+2021/09/14-04:51:50.127 40adc Level-0 table #30: 1299041 bytes OK
+2021/09/14-04:51:50.130 40adc Delete type=0 #24
+2021/09/14-04:51:50.137 40eb9 Compacting 1@1 + 3@2 files
+2021/09/14-04:51:50.169 40eb9 Generated table #31@1: 17845 keys, 2203897 bytes
+2021/09/14-04:51:50.198 40eb9 Generated table #32@1: 15985 keys, 2212421 bytes
+2021/09/14-04:51:50.206 40eb9 Generated table #33@1: 3828 keys, 560792 bytes
+2021/09/14-04:51:50.206 40eb9 Compacted 1@1 + 3@2 files => 4977110 bytes
+2021/09/14-04:51:50.208 40eb9 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/09/14-04:51:50.208 40eb9 Delete type=2 #26
+2021/09/14-04:51:50.208 40eb9 Delete type=2 #27
+2021/09/14-04:51:50.208 40eb9 Delete type=2 #28
+2021/09/14-04:51:50.208 40eb9 Delete type=2 #30
+2021/09/14-04:51:50.769 40eb9 Level-0 table #35: started
+2021/09/14-04:51:50.788 40eb9 Level-0 table #35: 1434276 bytes OK
+2021/09/14-04:51:50.791 40eb9 Delete type=0 #29
+2021/09/14-04:51:50.806 40adc Compacting 1@1 + 3@2 files
+2021/09/14-04:51:50.839 40adc Generated table #36@1: 17803 keys, 2200607 bytes
+2021/09/14-04:51:50.867 40adc Generated table #37@1: 16032 keys, 2211188 bytes
+2021/09/14-04:51:50.879 40adc Generated table #38@1: 5208 keys, 761486 bytes
+2021/09/14-04:51:50.879 40adc Compacted 1@1 + 3@2 files => 5173281 bytes
+2021/09/14-04:51:50.882 40adc compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/09/14-04:51:50.882 40adc Delete type=2 #31
+2021/09/14-04:51:50.882 40adc Delete type=2 #32
+2021/09/14-04:51:50.882 40adc Delete type=2 #33
+2021/09/14-04:51:50.882 40adc Delete type=2 #35
+2021/09/14-04:51:57.304 40eb9 Level-0 table #40: started
+2021/09/14-04:51:57.319 40eb9 Level-0 table #40: 1538619 bytes OK
+2021/09/14-04:51:57.322 40eb9 Delete type=0 #34
+2021/09/14-04:51:57.365 40eae Compacting 1@1 + 3@2 files
+2021/09/14-04:51:57.396 40eae Generated table #41@1: 16855 keys, 2200314 bytes
+2021/09/14-04:51:57.420 40eae Generated table #42@1: 15254 keys, 2198565 bytes
+2021/09/14-04:51:57.438 40eae Generated table #43@1: 10341 keys, 1485836 bytes
+2021/09/14-04:51:57.438 40eae Compacted 1@1 + 3@2 files => 5884715 bytes
+2021/09/14-04:51:57.440 40eae compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/09/14-04:51:57.440 40eae Delete type=2 #36
+2021/09/14-04:51:57.440 40eae Delete type=2 #37
+2021/09/14-04:51:57.440 40eae Delete type=2 #38
+2021/09/14-04:51:57.440 40eae Delete type=2 #40
+2021/09/14-04:51:58.388 40eae Level-0 table #45: started
+2021/09/14-04:51:58.403 40eae Level-0 table #45: 1225190 bytes OK
+2021/09/14-04:51:58.407 40eae Delete type=0 #39
+2021/09/14-04:51:58.418 40adc Compacting 1@1 + 3@2 files
+2021/09/14-04:51:58.451 40adc Generated table #46@1: 16857 keys, 2200861 bytes
+2021/09/14-04:51:58.479 40adc Generated table #47@1: 15384 keys, 2196376 bytes
+2021/09/14-04:51:58.500 40adc Generated table #48@1: 11025 keys, 1588659 bytes
+2021/09/14-04:51:58.500 40adc Compacted 1@1 + 3@2 files => 5985896 bytes
+2021/09/14-04:51:58.503 40adc compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/09/14-04:51:58.503 40adc Delete type=2 #41
+2021/09/14-04:51:58.503 40adc Delete type=2 #42
+2021/09/14-04:51:58.503 40adc Delete type=2 #43
+2021/09/14-04:51:58.503 40adc Delete type=2 #45

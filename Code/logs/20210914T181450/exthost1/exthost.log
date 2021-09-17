@@ -1,0 +1,5 @@
+[2021-09-14 18:14:51.670] [exthost] [info] extension host started
+[2021-09-14 18:14:51.670] [exthost] [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/320f9158b6aba54d0b7cd60e3ddbc674.
+[2021-09-14 18:14:51.979] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer {"startup":true,"extensionId":{"value":"matklad.rust-analyzer","_lower":"matklad.rust-analyzer"},"activationEvent":"workspaceContains:**/Cargo.toml"}
+[2021-09-14 18:14:51.979] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode/extensions/matklad.rust-analyzer-0.2.743/out/main
+[2021-09-14 18:14:52.085] [exthost] [info] eager extensions activated

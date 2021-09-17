@@ -1,0 +1,16 @@
+[2021-09-12 18:52:32.194] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-12 18:52:52.193] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-12 18:52:52.194] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-12 18:53:02.194] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-12 18:53:49.393] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-09-12 18:53:50.198] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/user/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.10.0
+[2021-09-12 18:53:50.669] [sharedprocess] [info] Extracted extension to /home/user/.vscode/extensions/.ec487060-ca06-4f6a-961c-63071eb1b2e6: pkief.material-icon-theme
+[2021-09-12 18:53:50.678] [sharedprocess] [info] Renamed to /home/user/.vscode/extensions/pkief.material-icon-theme-4.10.0
+[2021-09-12 18:53:50.680] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2021-09-12 18:53:50.682] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2021-09-12 18:54:24.796] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onelight
+[2021-09-12 18:54:25.406] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onelight /home/user/.config/Code/CachedExtensionVSIXs/akamud.vscode-theme-onelight-2.2.3
+[2021-09-12 18:54:25.414] [sharedprocess] [info] Extracted extension to /home/user/.vscode/extensions/.2a4aa4e6-8d65-42cf-9894-1e22116eb6d8: akamud.vscode-theme-onelight
+[2021-09-12 18:54:25.417] [sharedprocess] [info] Renamed to /home/user/.vscode/extensions/akamud.vscode-theme-onelight-2.2.3
+[2021-09-12 18:54:25.417] [sharedprocess] [info] Extracting completed. akamud.vscode-theme-onelight
+[2021-09-12 18:54:25.419] [sharedprocess] [info] Extension installed successfully: akamud.vscode-theme-onelight

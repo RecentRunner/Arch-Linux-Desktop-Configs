@@ -1,0 +1,7 @@
+game:
+  exe: /home/user/Games/Emulation/WiiU/cemu/drive_c/Cemu/Cemu.exe
+  prefix: ~/Games/Emulation/WiiU/cemu
+  working_dir: ~/Games/Emulation/WiiU/cemu/drive_c/Cemu
+system: {}
+wine:
+  version: system

@@ -1,0 +1,337 @@
+2021-09-16T14:00:48-06:00 info [STORAGE BUCKET] DB Path: /home/user/.config/Shift
+2021-09-16T14:00:49-06:00 error Could not register 'shift' protocol
+2021-09-16T14:00:49-06:00 warn [Service] No key salt. Unable to read/write vault.
+2021-09-16T14:00:49-06:00 info [AutoUpdate] Initializing auto updater
+2021-09-16T14:00:49-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:00:49-06:00 info ################### APP READY ################
+2021-09-16T14:00:49-06:00 info track-event: shift-launch, anonymous: false, {"count":1}
+2021-09-16T14:00:49-06:00 info track-event: initial-launch, anonymous: true, {}
+2021-09-16T14:00:50-06:00 info [StoreService] Created store from saved snapshot.
+2021-09-16T14:00:50-06:00 error [Service] Failed to pull data for Workspaces handler.,Error: API Key is not set
+    at Client.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:489)
+    at Client.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:796)
+    at Workspaces.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:953)
+    at Object.list (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Workspaces.js:1:1089)
+    at Workspaces.fetch (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Workspaces.js:1:1398)
+    at Workspaces.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:1267)
+    at Service.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1639)
+    at Service.tryPull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1797)
+    at Service.init (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1153)
+2021-09-16T14:00:50-06:00 error [Service] Failed to pull data for Apps handler.,Error: API Key is not set
+    at Client.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:489)
+    at Client.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:796)
+    at Apps.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:953)
+    at Object.list (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Apps.js:1:1045)
+    at Apps.fetch (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Apps.js:1:1215)
+    at Apps.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:1267)
+    at Service.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1639)
+    at async Service.tryPull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1786)
+    at async Service.init (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1142)
+2021-09-16T14:00:50-06:00 error [Service] Failed to pull data for Bookmarks handler.,Error: API Key is not set
+    at Client.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:489)
+    at Client.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:796)
+    at Bookmarks.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:953)
+    at Object.list (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Bookmarks.js:1:808)
+    at Bookmarks.fetch (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Bookmarks.js:1:919)
+    at Bookmarks.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:1267)
+    at Service.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1639)
+    at async Service.tryPull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1786)
+    at async Service.init (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1142)
+2021-09-16T14:00:50-06:00 error [Service] Failed to pull data for WorkspaceBookmarks handler.,Error: API Key is not set
+    at Client.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:489)
+    at Client.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:796)
+    at WorkspaceBookmarks.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:953)
+    at Object.list (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/WorkspaceBookmarks.js:1:892)
+    at WorkspaceBookmarks.fetch (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/WorkspaceBookmarks.js:1:1080)
+    at WorkspaceBookmarks.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:1267)
+    at Service.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1639)
+    at async Service.tryPull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1786)
+    at async Service.init (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1142)
+2021-09-16T14:00:50-06:00 warn [Passwords] Cannot pull passwords without a vault ID.
+2021-09-16T14:00:50-06:00 error [Service] Failed to pull data for Users handler.,Error: API Key is not set
+    at Client.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:489)
+    at Client.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Client.js:1:796)
+    at Users.request (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:953)
+    at Object.list (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Users.js:1:779)
+    at Users.fetch (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/Users.js:1:951)
+    at Users.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/handlers/AbstractHandler.js:1:1267)
+    at Service.pull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1639)
+    at async Service.tryPull (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1786)
+    at async Service.init (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1142)
+2021-09-16T14:00:50-06:00 error (node:38276) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 tab.web-contents.ipc-message listeners added to [EventBus]. Use emitter.setMaxListeners() to increase limit
+2021-09-16T14:00:50-06:00 error [Service] Failed to connect to socket. Retry in 30000ms.,Error: API Key is not set
+    at Socket.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:408)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:779
+    at new Promise (<anonymous>)
+    at Socket.connect (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:724)
+    at Service.connectSocketWithRetry (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1908)
+    at Service.init (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1396)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021-09-16T14:00:50-06:00 info LinuxDesktop -> createDesktopFile [START]
+2021-09-16T14:00:50-06:00 info LinuxDesktop -> createDesktopFile [FINISH]
+2021-09-16T14:00:50-06:00 info [AutoUpdate] Triggering update check
+2021-09-16T14:00:50-06:00 info Registering keyboard shortcuts with window (3) using qwerty layout.
+2021-09-16T14:00:50-06:00 info Registering keyboard shortcuts with window (2) using qwerty layout.
+2021-09-16T14:00:50-06:00 info Registering keyboard shortcuts with window (1) using qwerty layout.
+2021-09-16T14:00:50-06:00 info LinuxDesktop -> The file was saved!
+2021-09-16T14:00:50-06:00 info Widevine 4.10.2209.1 is ready to be used!
+2021-09-16T14:00:51-06:00 info No history entries to migrate.
+2021-09-16T14:00:51-06:00 warn [sync] Cannot start syncing. No shift account.
+2021-09-16T14:00:51-06:00 info track-event: welcome-prompt, anonymous: true, {}
+2021-09-16T14:00:54-06:00 info track-event: setup-add-primary-prompt, anonymous: true, {}
+2021-09-16T14:01:04-06:00 info track-event: setup-add-additional-prompt, anonymous: true, {}
+2021-09-16T14:01:20-06:00 error [Service] Failed to connect to socket. Retry in 30000ms.,Error: API Key is not set
+    at Socket.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:408)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:779
+    at new Promise (<anonymous>)
+    at Socket.connect (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:724)
+    at Service.connectSocketWithRetry (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1908)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+2021-09-16T14:01:39-06:00 info track-event: setup-auth-prompt, anonymous: true, {"number-of-accounts":3}
+2021-09-16T14:01:39-06:00 warn [crx]: Unexpected key: 34
+2021-09-16T14:01:39-06:00 error (node:38276) ExtensionLoadWarning: Warnings loading extension at /home/user/.config/Shift/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi: Unrecognized manifest key 'author'. Unrecognized manifest key 'minimum_chrome_version'. Unrecognized manifest key 'storage'. Unrecognized manifest key 'update_url'. 
+2021-09-16T14:01:40-06:00 error Error,TypeError: Failed to set the 'innerHTML' property on 'Element': This document requires 'TrustedHTML' assignment.
+    at e.value (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:60749)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36344)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:34922)
+    at Object.1123 (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36119)
+    at n (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105321)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105580
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105842
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105846)
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:2:3)
+    at Module._compile (internal/modules/cjs/loader.js:1152:30)
+2021-09-16T14:01:40-06:00 error Error,TypeError: Failed to set the 'innerHTML' property on 'Element': This document requires 'TrustedHTML' assignment.
+    at e.value (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:60749)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36344)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:34922)
+    at Object.1123 (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36119)
+    at n (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105321)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105580
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105842
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105846)
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:2:3)
+    at Module._compile (internal/modules/cjs/loader.js:1152:30)
+2021-09-16T14:01:45-06:00 error ResizeObserver loop limit exceeded,https://accounts.google.com/signin/v2/challenge/pwd?access_type=offline&scope=profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&response_type=code&client_id=455395847896-ma0a0io9rfecggn6jl6p2kv4kn2ecvn3.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&login_hint=harkamalsr%40gmail.com&flowName=GeneralOAuthFlow&cid=1&navigationDirection=forward&TL=AM3QAYbYxIcBxg-33OrmjQ9rSZc2_hG3w2g_U7vc0CQ1mgc_Wo3ajFneHYpcXDV9,,,null
+2021-09-16T14:01:50-06:00 info [StoreService] Saving snapshot.
+2021-09-16T14:01:50-06:00 error [Service] Failed to connect to socket. Retry in 30000ms.,Error: API Key is not set
+    at Socket.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:408)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:779
+    at new Promise (<anonymous>)
+    at Socket.connect (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:724)
+    at Service.connectSocketWithRetry (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1908)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+2021-09-16T14:01:50-06:00 error ResizeObserver loop limit exceeded,https://accounts.google.com/signin/v2/challenge/dp?access_type=offline&scope=profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&response_type=code&client_id=455395847896-ma0a0io9rfecggn6jl6p2kv4kn2ecvn3.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&login_hint=harkamalsr%40gmail.com&flowName=GeneralOAuthFlow&cid=5&TL=AM3QAYbYxIcBxg-33OrmjQ9rSZc2_hG3w2g_U7vc0CQ1mgc_Wo3ajFneHYpcXDV9&navigationDirection=forward,,,null
+2021-09-16T14:02:14-06:00 info [AuthOverlayTab] Detected OAuth approval code: 4/1AX4XfWjyJ8Md2nxusH_k0NqL1b-tKtqOOt43NdZ1hDvwR76rU7SyuyYU1is
+2021-09-16T14:02:14-06:00 info track-event: setup-add-apps-prompt, anonymous: true, {}
+2021-09-16T14:02:15-06:00 info [MailboxTab] Suspected signed-out URL: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?ibxr%3D0&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#
+2021-09-16T14:02:15-06:00 info [GoogleAPI] Refreshing auth tokens for mailbox '70536e21-d93b-40de-b871-bed0ba1e9591'
+2021-09-16T14:02:20-06:00 error [Service] Failed to connect to socket. Retry in 30000ms.,Error: API Key is not set
+    at Socket.getApiKey (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:408)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:779
+    at new Promise (<anonymous>)
+    at Socket.connect (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Socket.js:1:724)
+    at Service.connectSocketWithRetry (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/sync/Service.js:1:1908)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+2021-09-16T14:02:24-06:00 info track-event: setup-select-theme-prompt, anonymous: true, {"number-of-applications":2}
+2021-09-16T14:02:29-06:00 info LinuxDesktop -> createNewDefaultProgramsFile [START]
+2021-09-16T14:02:29-06:00 error TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received { flags: 'w' }
+    at maybeCallback (fs.js:149:9)
+    at Object.writeFile (fs.js:1336:14)
+    at e.value (file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:1013669)
+    at e.value (file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:1012670)
+    at Object.value (file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:222315)
+    at Object.d [as setShiftAsDefaultMailClient] (file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:9132)
+    at t.startShift (file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:662497)
+    at file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:661608
+    at v (file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:3395874)
+    at Generator._invoke (file:///media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/mailboxes/mainWindow.js:2:3395662)
+2021-09-16T14:02:31-06:00 info [Sync] Sending data to server
+2021-09-16T14:02:32-06:00 warn [Service] No existing vault file found. Creating a new empty vault.
+2021-09-16T14:02:32-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:32-06:00 alert Error: The name org.freedesktop.secrets was not provided by any .service files,{}
+2021-09-16T14:02:32-06:00 info track-event: add-account, anonymous: false, {"type":"gmail","source":"initial-setup","number-of-accounts":3}
+2021-09-16T14:02:32-06:00 info track-event: add-account, anonymous: false, {"type":"gmail","source":"initial-setup","number-of-accounts":3}
+2021-09-16T14:02:32-06:00 info track-event: add-account, anonymous: false, {"type":"gmail","source":"initial-setup","number-of-accounts":3}
+2021-09-16T14:02:32-06:00 info track-event: application-installed, anonymous: false, {"type":"whatsApp","source":"initial-setup","number-of-applications":2}
+2021-09-16T14:02:32-06:00 info track-event: application-installed, anonymous: false, {"type":"slack","source":"initial-setup","number-of-applications":2}
+2021-09-16T14:02:32-06:00 info track-event: setting-changed, anonymous: false, {"property":"app-theme","value":"light","source":"initial-setup"}
+2021-09-16T14:02:32-06:00 info track-event: setting-changed, anonymous: false, {"property":"sidebar","value":"compact","source":"initial-setup"}
+2021-09-16T14:02:32-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:32-06:00 alert TypeError: Cannot read property 'providerAvatarColor' of undefined
+    at Mailbox.get googleAvatarColor [as googleAvatarColor] (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/shared/Models/Mailbox/Mailbox.js:1:12950)
+    at Mailbox.serializeForServer (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/shared/Models/Mailbox/Mailbox.js:1:10430)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/shift-api/api-shiftuser.js:1:917
+    at Map.forEach (<anonymous>)
+    at throttleSaveData (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/shift-api/api-shiftuser.js:1:887)
+    at Object.authRequired (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/shift-api/api-auth.js:1:1908)
+    at push (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/shift-api/sync.js:1:3288)
+    at IpcMainImpl.forcePush (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/shift-api/sync.js:1:3475)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051),{}
+2021-09-16T14:02:32-06:00 info track-event: setup-complete, anonymous: true, {"theme":"light"}
+2021-09-16T14:02:32-06:00 info [Socket] Connection opened.
+2021-09-16T14:02:32-06:00 info track-event: show-tour, anonymous: false, {}
+2021-09-16T14:02:33-06:00 info [Sync] Sending data to server
+2021-09-16T14:02:33-06:00 warn [Service] Unhandled socket message.,{"event":"signup-success-handled"}
+2021-09-16T14:02:34-06:00 info [Sync] Sending data to server
+2021-09-16T14:02:34-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:35-06:00 info track-event: setup-free-app-suggestion-show, anonymous: false, {}
+2021-09-16T14:02:35-06:00 info track-event: tour-interrupted, anonymous: false, {}
+2021-09-16T14:02:36-06:00 info track-event: setup-free-app-suggestion-rejected, anonymous: false, {}
+2021-09-16T14:02:36-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:36-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:37-06:00 info [MailboxTab] Suspected signed-out URL: https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&osid=1&continue=https://calendar.google.com/calendar/render&followup=https://calendar.google.com/calendar/render&scc=1&authuser=0
+2021-09-16T14:02:37-06:00 info [Sync] Sending data to server
+2021-09-16T14:02:37-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:38-06:00 info track-event: viewed-password-education-dialog-slide, anonymous: false, {"slide":"welcome"}
+2021-09-16T14:02:38-06:00 info track-event: password-education-dialog-dismissed, anonymous: false, {"completed":false}
+2021-09-16T14:02:40-06:00 info track-event: special-offer-shown, anonymous: false, {"offer-id":"advanced-upgrade"}
+2021-09-16T14:02:40-06:00 info track-event: blocked-advanced-feature-modal, anonymous: false, {"source":"EXTENSIONS","with-coupon":false}
+2021-09-16T14:02:40-06:00 info [Sync] Sending data to server
+2021-09-16T14:02:40-06:00 error Error,TypeError: Failed to set the 'innerHTML' property on 'Element': This document requires 'TrustedHTML' assignment.
+    at e.value (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:60749)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36344)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:34922)
+    at Object.1123 (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36119)
+    at n (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105321)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105580
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105842
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105846)
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:2:3)
+    at Module._compile (internal/modules/cjs/loader.js:1152:30)
+2021-09-16T14:02:41-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:41-06:00 info track-event: special-offer-declined, anonymous: false, {"offer-id":"advanced-upgrade"}
+2021-09-16T14:02:41-06:00 info track-event: blocked-advanced-feature-modal-reject, anonymous: false, {"source":"EXTENSIONS","with-coupon":false}
+2021-09-16T14:02:43-06:00 info [Sync] Sending data to server
+2021-09-16T14:02:43-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:45-06:00 error Error,TypeError: Failed to set the 'innerHTML' property on 'Element': This document requires 'TrustedHTML' assignment.
+    at e.value (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:60749)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36344)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:34922)
+    at Object.1123 (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36119)
+    at n (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105321)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105580
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105842
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105846)
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:2:3)
+    at Module._compile (internal/modules/cjs/loader.js:1152:30)
+2021-09-16T14:02:46-06:00 info [Sync] Sending data to server
+2021-09-16T14:02:47-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:02:48-06:00 error (node:38276) ExtensionLoadWarning: Warnings loading extension at /home/user/.config/Shift/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi: Unrecognized manifest key 'author'. Unrecognized manifest key 'minimum_chrome_version'. Unrecognized manifest key 'storage'. Unrecognized manifest key 'update_url'. 
+2021-09-16T14:02:49-06:00 error Error,TypeError: Failed to set the 'innerHTML' property on 'Element': This document requires 'TrustedHTML' assignment.
+    at e.value (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:60749)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36344)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:34922)
+    at Object.1123 (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36119)
+    at n (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105321)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105580
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105842
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105846)
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:2:3)
+    at Module._compile (internal/modules/cjs/loader.js:1152:30)
+2021-09-16T14:02:49-06:00 error Error,TypeError: Failed to set the 'innerHTML' property on 'Element': This document requires 'TrustedHTML' assignment.
+    at e.value (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:60749)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36344)
+    at new e (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:34922)
+    at Object.1123 (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:36119)
+    at n (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105321)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105580
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105842
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:1:105846)
+    at Object.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/scenes/platform/index.js:2:3)
+    at Module._compile (internal/modules/cjs/loader.js:1152:30)
+2021-09-16T14:02:49-06:00 warn [SlackAPI] Unable to fetch unread counts, missing access token
+2021-09-16T14:02:50-06:00 info [StoreService] Saving snapshot.
+2021-09-16T14:02:51-06:00 error ResizeObserver loop limit exceeded,https://accounts.google.com/signin/v2/challenge/pwd?access_type=offline&scope=profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&response_type=code&client_id=455395847896-ma0a0io9rfecggn6jl6p2kv4kn2ecvn3.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&login_hint=lakshmialpacaman37%40gmail.com&flowName=GeneralOAuthFlow&cid=5&navigationDirection=forward&TL=AM3QAYbGl82TsiidROYcx-ZiOIYb7xf-lh24ZeIoaCFPspNp7pR18Xg36E5LDLMf,,,null
+2021-09-16T14:02:53-06:00 info track-event: shift-tenth-focus, anonymous: false, {}
+2021-09-16T14:02:56-06:00 error ResizeObserver loop limit exceeded,https://accounts.google.com/signin/v2/challenge/selection?access_type=offline&scope=profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&response_type=code&client_id=455395847896-ma0a0io9rfecggn6jl6p2kv4kn2ecvn3.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&login_hint=lakshmialpacaman37%40gmail.com&flowName=GeneralOAuthFlow&cid=5&TL=AM3QAYbGl82TsiidROYcx-ZiOIYb7xf-lh24ZeIoaCFPspNp7pR18Xg36E5LDLMf&lid=2&navigationDirection=forward,,,null
+2021-09-16T14:03:00-06:00 error ResizeObserver loop limit exceeded,https://accounts.google.com/signin/v2/challenge/ipp?access_type=offline&scope=profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&response_type=code&client_id=455395847896-ma0a0io9rfecggn6jl6p2kv4kn2ecvn3.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&login_hint=lakshmialpacaman37%40gmail.com&flowName=GeneralOAuthFlow&cid=12&TL=AM3QAYbGl82TsiidROYcx-ZiOIYb7xf-lh24ZeIoaCFPspNp7pR18Xg36E5LDLMf&lid=2&navigationDirection=forward,,,null
+2021-09-16T14:03:14-06:00 error Error: No OAuth client for mailbox: e3fd259d-8c4a-47a4-976c-620568ed4f6c
+    at GoogleAPI.getAPIAuth (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:8384)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:3886
+    at new Promise (<anonymous>)
+    at GoogleAPI.handleFetchV3Contacts (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:3783)
+    at IpcMainImpl.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/IpcHelper.js:1:438)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+2021-09-16T14:03:14-06:00 error Error: No OAuth client for mailbox: e3fd259d-8c4a-47a4-976c-620568ed4f6c
+    at GoogleAPI.getAPIAuth (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:8384)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:4512
+    at new Promise (<anonymous>)
+    at GoogleAPI.handleFetchContactGroups (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:4413)
+    at IpcMainImpl.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/IpcHelper.js:1:438)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+2021-09-16T14:03:14-06:00 error Error: No OAuth client for mailbox: 2dffa33a-2673-4139-888a-1813c9c94ff4
+    at GoogleAPI.getAPIAuth (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:8384)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:3886
+    at new Promise (<anonymous>)
+    at GoogleAPI.handleFetchV3Contacts (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:3783)
+    at IpcMainImpl.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/IpcHelper.js:1:438)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+2021-09-16T14:03:14-06:00 error Error: No OAuth client for mailbox: 2dffa33a-2673-4139-888a-1813c9c94ff4
+    at GoogleAPI.getAPIAuth (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:8384)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:4512
+    at new Promise (<anonymous>)
+    at GoogleAPI.handleFetchContactGroups (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:4413)
+    at IpcMainImpl.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/IpcHelper.js:1:438)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+2021-09-16T14:03:15-06:00 error Error: No OAuth client for mailbox: e3fd259d-8c4a-47a4-976c-620568ed4f6c
+    at GoogleAPI.getAPIAuth (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:8384)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:3886
+    at new Promise (<anonymous>)
+    at GoogleAPI.handleFetchV3Contacts (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:3783)
+    at IpcMainImpl.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/IpcHelper.js:1:438)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+2021-09-16T14:03:15-06:00 error Error: No OAuth client for mailbox: e3fd259d-8c4a-47a4-976c-620568ed4f6c
+    at GoogleAPI.getAPIAuth (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:8384)
+    at /media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:4512
+    at new Promise (<anonymous>)
+    at GoogleAPI.handleFetchContactGroups (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/GoogleAPI.js:1:4413)
+    at IpcMainImpl.<anonymous> (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/IpcHelper.js:1:438)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+2021-09-16T14:03:31-06:00 error ResizeObserver loop limit exceeded,https://accounts.google.com/signin/v2/challenge/selection?access_type=offline&scope=profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&response_type=code&client_id=455395847896-ma0a0io9rfecggn6jl6p2kv4kn2ecvn3.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&login_hint=lakshmialpacaman37%40gmail.com&flowName=GeneralOAuthFlow&cid=12&TL=AM3QAYbGl82TsiidROYcx-ZiOIYb7xf-lh24ZeIoaCFPspNp7pR18Xg36E5LDLMf&lid=2&navigationDirection=forward,,,null
+2021-09-16T14:03:33-06:00 info [Sync] Sending data to server
+2021-09-16T14:03:33-06:00 error ResizeObserver loop limit exceeded,https://accounts.google.com/signin/v2/challenge/ipp?access_type=offline&scope=profile%20email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&response_type=code&client_id=455395847896-ma0a0io9rfecggn6jl6p2kv4kn2ecvn3.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&login_hint=lakshmialpacaman37%40gmail.com&flowName=GeneralOAuthFlow&cid=12&TL=AM3QAYbGl82TsiidROYcx-ZiOIYb7xf-lh24ZeIoaCFPspNp7pR18Xg36E5LDLMf&lid=2&navigationDirection=forward,,,null
+2021-09-16T14:03:49-06:00 warn [SlackAPI] Unable to fetch unread counts, missing access token
+2021-09-16T14:03:50-06:00 info [StoreService] Saving snapshot.
+2021-09-16T14:04:00-06:00 info track-event: favorite-password-set, anonymous: false, {"source":"login-recorder"}
+2021-09-16T14:04:00-06:00 error [Passwords] Local vault decryption failed.,ENOENT: no such file or directory, open '/home/user/.config/Shift/vault.json'
+2021-09-16T14:04:00-06:00 alert DecryptError: ENOENT: no such file or directory, open '/home/user/.config/Shift/vault.json'
+    at Service.readVault (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/vault/Service.js:1:3725)
+    at async Service._updateItem (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/vault/Service.js:1:4727)
+    at async Service.updateItem (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/vault/Service.js:1:830),{}
+2021-09-16T14:04:00-06:00 info [AutoUpdate] Setting feed url to https://update.tryshift.com/update/channel/stable/linux/7.1.16-stable
+2021-09-16T14:04:00-06:00 info track-event: password-save, anonymous: false, {"source":"login-recorder"}
+2021-09-16T14:04:00-06:00 error [Passwords] Local vault decryption failed.,ENOENT: no such file or directory, open '/home/user/.config/Shift/vault.json'
+2021-09-16T14:04:00-06:00 alert DecryptError: ENOENT: no such file or directory, open '/home/user/.config/Shift/vault.json'
+    at Service.readVault (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/vault/Service.js:1:3725)
+    at async Service._updateItem (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/vault/Service.js:1:4727)
+    at async Service.updateItem (/media/Storage/Downloads/Shift-linux-x64/resources/app.asar/app/app/vault/Service.js:1:830),{}
+2021-09-16T14:04:01-06:00 info [Sync] Sending data to server
+2021-09-16T14:04:05-06:00 info track-event: viewed-password-education-dialog-slide, anonymous: false, {"slide":"welcome"}
+2021-09-16T14:04:05-06:00 info track-event: password-education-dialog-dismissed, anonymous: false, {"completed":false}
+2021-09-16T14:04:07-06:00 info [AuthOverlayTab] Detected OAuth approval code: 4/1AX4XfWhgf_lUyOqMOdwC5uNskJQIRxtAERDSZUMUCRqoy9uKd9diTI3Se_Q
+2021-09-16T14:04:07-06:00 info [MailboxTab] Suspected signed-out URL: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?ibxr%3D0&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#
+2021-09-16T14:04:08-06:00 info [GoogleAPI] Refreshing auth tokens for mailbox 'e3fd259d-8c4a-47a4-976c-620568ed4f6c'
+2021-09-16T14:04:11-06:00 info track-event: shift-tenth-focus, anonymous: false, {}
+2021-09-16T14:04:13-06:00 info track-event: special-offer-shown, anonymous: false, {"offer-id":"advanced-upgrade"}
+2021-09-16T14:04:13-06:00 info track-event: blocked-advanced-feature-modal, anonymous: false, {"source":"USE_MAILBOX","with-coupon":false}
+2021-09-16T14:04:16-06:00 info track-event: special-offer-declined, anonymous: false, {"offer-id":"advanced-upgrade"}
+2021-09-16T14:04:16-06:00 info track-event: blocked-advanced-feature-modal-reject, anonymous: false, {"source":"USE_MAILBOX","with-coupon":false}
+2021-09-16T14:04:21-06:00 info track-event: sidebar-button-click, anonymous: false, {"button":"add-account"}
+2021-09-16T14:04:46-06:00 info track-event: exit-offer-shown, anonymous: false, {}

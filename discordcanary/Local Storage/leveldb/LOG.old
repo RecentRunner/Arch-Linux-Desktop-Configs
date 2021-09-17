@@ -1,0 +1,9 @@
+2021/09/16-13:23:09.378 4944 Reusing MANIFEST /home/user/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
+2021/09/16-13:23:09.378 4944 Recovering log #4
+2021/09/16-13:23:09.379 4944 Reusing old log /home/user/.config/discordcanary/Local Storage/leveldb/000004.log 
+2021/09/16-13:55:34.306 4959 Level-0 table #8: started
+2021/09/16-13:55:34.307 4959 Level-0 table #8: 14598 bytes OK
+2021/09/16-13:55:34.309 4959 Delete type=0 #4
+2021/09/16-13:56:22.730 4944 Level-0 table #10: started
+2021/09/16-13:56:22.731 4944 Level-0 table #10: 14603 bytes OK
+2021/09/16-13:56:22.733 4944 Delete type=0 #7

@@ -1,0 +1,7 @@
+steam:
+  lsi_steam: true
+system:
+  aco: true
+  display: 'off'
+  game_path: ~/Games/Non-Emulation
+  pulse_latency: true

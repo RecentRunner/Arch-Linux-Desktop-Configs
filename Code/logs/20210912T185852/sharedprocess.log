@@ -1,0 +1,15 @@
+[2021-09-12 18:59:03.722] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-12 18:59:23.720] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-12 18:59:23.721] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-12 18:59:24.169] [sharedprocess] [info] Installing extension: matklad.rust-analyzer
+[2021-09-12 18:59:24.933] [sharedprocess] [info] Downloaded extension: matklad.rust-analyzer /home/user/.config/Code/CachedExtensionVSIXs/matklad.rust-analyzer-0.2.735
+[2021-09-12 18:59:24.975] [sharedprocess] [info] Extracted extension to /home/user/.vscode/extensions/.619ee0b6-11cf-4e0e-9fe4-a3160ad19a5b: matklad.rust-analyzer
+[2021-09-12 18:59:24.980] [sharedprocess] [info] Renamed to /home/user/.vscode/extensions/matklad.rust-analyzer-0.2.735
+[2021-09-12 18:59:24.982] [sharedprocess] [info] Extracting completed. matklad.rust-analyzer
+[2021-09-12 18:59:24.986] [sharedprocess] [info] Extension installed successfully: matklad.rust-analyzer
+[2021-09-12 18:59:25.215] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2021-09-12 18:59:25.868] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/user/.config/Code/CachedExtensionVSIXs/eamodio.gitlens-11.6.0
+[2021-09-12 18:59:26.106] [sharedprocess] [info] Extracted extension to /home/user/.vscode/extensions/.d32399d8-b575-43cf-b69c-5e715b0f4646: eamodio.gitlens
+[2021-09-12 18:59:26.121] [sharedprocess] [info] Renamed to /home/user/.vscode/extensions/eamodio.gitlens-11.6.0
+[2021-09-12 18:59:26.127] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2021-09-12 18:59:26.140] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "egl_config": {
+      "client_id": "34a02cf8f4414e29b15921876da36f9a",
+      "client_secret": "daafbccc737745039dffe53d94fc76cf",
+      "label": "Live-EternalKnight",
+      "version": "12.2.17-17456889+++Portal+Release-Live "
+    },
+    "game_overrides": {
+      "disable_delta": [
+        "unused"
+      ],
+      "offline_unsupported": [
+        "unused"
+      ],
+      "reorder_optimization": {
+        "bcc75c246fe04e45b0c1f1c3fd52503a": [
+          "1.0.2"
+        ],
+        "honeycreeper": {},
+        "snapdragon": {},
+        "wombat": {}
+      },
+      "sdl_config": {
+        "Fortnite": 1,
+        "Ginger": 1,
+        "Lavender": 1
+      }
+    },
+    "release_info": {
+      "critical": false,
+      "gh_url": "https://legendary.gl/release/0.20.10",
+      "name": "Black Mesa East",
+      "summary": " [*] Add feature to activate/launch Origin games\n [*] Improvements to update check mechanism (now includes selective downloading configuration)\nSee full changelog for additional details.",
+      "version": "0.20.10"
+    }
+  },
+  "last_update": 1631588596.5937421
+}

@@ -1,0 +1,5 @@
+2021/09/16-14:02:38.665 96ef Reusing MANIFEST /home/user/.config/Shift/Partitions/70536e21-d93b-40de-b871-bed0ba1e9591/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/16-14:02:42.200 95ff Level-0 table #5: started
+2021/09/16-14:02:42.201 95ff Level-0 table #5: 1291 bytes OK
+2021/09/16-14:02:42.203 95ff Delete type=0 #3
+2021/09/16-14:02:42.203 95ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

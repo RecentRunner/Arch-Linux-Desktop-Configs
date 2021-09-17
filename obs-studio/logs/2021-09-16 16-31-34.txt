@@ -1,0 +1,110 @@
+04:31:34 PM.358: CPU Name: AMD Ryzen 5 2600X Six-Core Processor
+04:31:34 PM.358: CPU Speed: 3800.000MHz
+04:31:34 PM.375: Physical Cores: 6, Logical Cores: 12
+04:31:34 PM.375: Physical Memory: 15909MB Total, 11100MB Free
+04:31:34 PM.375: Kernel Version: Linux 5.14.5-arch1-1
+04:31:34 PM.375: Distribution: 'EndeavourOS' Unknown
+04:31:34 PM.375: Session Type: x11
+04:31:34 PM.375: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+04:31:34 PM.375: Portable mode: false
+04:31:34 PM.414: OBS 27.0.1-2 (linux)
+04:31:34 PM.414: ---------------------------------
+04:31:34 PM.414: ---------------------------------
+04:31:34 PM.414: audio settings reset:
+04:31:34 PM.414: 	samples per sec: 48000
+04:31:34 PM.414: 	speakers:        2
+04:31:34 PM.415: ---------------------------------
+04:31:34 PM.415: Initializing OpenGL...
+04:31:34 PM.487: Loading up OpenGL on adapter AMD Radeon RX 570 Series (POLARIS10, DRM 3.42.0, 5.14.5-arch1-1, LLVM 12.0.1)
+04:31:34 PM.487: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.1, shading language 4.60
+04:31:34 PM.502: ---------------------------------
+04:31:34 PM.502: video settings reset:
+04:31:34 PM.502: 	base resolution:   1920x1080
+04:31:34 PM.502: 	output resolution: 1280x720
+04:31:34 PM.502: 	downscale filter:  Lanczos
+04:31:34 PM.502: 	fps:               30/1
+04:31:34 PM.502: 	format:            NV12
+04:31:34 PM.502: 	YUV mode:          709/Partial
+04:31:34 PM.502: NV12 texture support not available
+04:31:34 PM.504: Audio monitoring device:
+04:31:34 PM.504: 	name: Default
+04:31:34 PM.504: 	id: default
+04:31:34 PM.504: ---------------------------------
+04:31:34 PM.506: Failed to load 'en-US' text for module: 'decklink-captions.so'
+04:31:34 PM.507: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+04:31:34 PM.584: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+04:31:34 PM.584: No blackmagic support
+04:31:34 PM.594: v4l2loopback not installed, virtual camera disabled
+04:31:34 PM.611: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+04:31:34 PM.611: 
+04:31:34 PM.611: FFMPEG VAAPI supported
+04:31:34 PM.621: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+04:31:34 PM.621: 
+04:31:34 PM.621: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+04:31:34 PM.623: ---------------------------------
+04:31:34 PM.623:   Loaded Modules:
+04:31:34 PM.623:     text-freetype2.so
+04:31:34 PM.623:     rtmp-services.so
+04:31:34 PM.623:     obs-x264.so
+04:31:34 PM.623:     obs-transitions.so
+04:31:34 PM.623:     obs-outputs.so
+04:31:34 PM.623:     obs-libfdk.so
+04:31:34 PM.623:     obs-filters.so
+04:31:34 PM.623:     obs-ffmpeg.so
+04:31:34 PM.623:     linux-v4l2.so
+04:31:34 PM.623:     linux-pulseaudio.so
+04:31:34 PM.623:     linux-jack.so
+04:31:34 PM.623:     linux-decklink.so
+04:31:34 PM.623:     linux-capture.so
+04:31:34 PM.623:     linux-alsa.so
+04:31:34 PM.623:     image-source.so
+04:31:34 PM.623:     frontend-tools.so
+04:31:34 PM.623:     decklink-ouput-ui.so
+04:31:34 PM.623:     decklink-captions.so
+04:31:34 PM.623: ---------------------------------
+04:31:34 PM.623: ==== Startup complete ===============================================
+04:31:34 PM.626: All scene data cleared
+04:31:34 PM.626: ------------------------------------------------
+04:31:34 PM.633: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.35) 15.0.0'
+04:31:34 PM.633: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+04:31:34 PM.633: pulse-input: Started recording from 'bluez_output.4C_87_5D_CF_86_E9.a2dp-sink.monitor'
+04:31:34 PM.633: [Loaded global audio device]: 'Desktop Audio'
+04:31:34 PM.634: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.35) 15.0.0'
+04:31:34 PM.634: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+04:31:34 PM.634: pulse-input: Started recording from 'alsa_input.usb-0c76_USB_PnP_Audio_Device-00.mono-fallback'
+04:31:34 PM.634: [Loaded global audio device]: 'Mic/Aux'
+04:31:34 PM.635: xshm-input: Geometry 1920x1080 @ 0,0
+04:31:34 PM.637: Switched to scene 'Scene'
+04:31:34 PM.638: ------------------------------------------------
+04:31:34 PM.638: Loaded scenes:
+04:31:34 PM.638: - scene 'Scene':
+04:31:34 PM.638:     - source: 'Desktop Audio' (pulse_output_capture)
+04:31:34 PM.638:     - source: 'Screen Capture (XSHM)' (xshm_input)
+04:31:34 PM.638: ------------------------------------------------
+04:31:35 PM.152: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+04:31:35 PM.152: 
+04:31:40 PM.247: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+04:31:40 PM.247: 
+04:32:06 PM.738: adding 64 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Mic/Aux)
+04:32:06 PM.738: 
+04:32:42 PM.313: User Removed source 'Desktop Audio' (pulse_output_capture) from scene 'Scene'
+04:35:20 PM.500: Settings changed (outputs)
+04:35:20 PM.500: ------------------------------------------------
+04:57:29 PM.332: ---------------------------------
+04:57:29 PM.332: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+04:57:29 PM.332: [x264 encoder: 'simple_h264_recording'] profile: high
+04:57:29 PM.332: [x264 encoder: 'simple_h264_recording'] settings:
+04:57:29 PM.332: 	rate_control: CRF
+04:57:29 PM.332: 	bitrate:      0
+04:57:29 PM.332: 	buffer size:  0
+04:57:29 PM.332: 	crf:          21
+04:57:29 PM.332: 	fps_num:      30
+04:57:29 PM.332: 	fps_den:      1
+04:57:29 PM.332: 	width:        1280
+04:57:29 PM.332: 	height:       720
+04:57:29 PM.332: 	keyint:       250
+04:57:29 PM.332: 
+04:57:29 PM.335: libfdk_aac encoder created
+04:57:29 PM.335: libfdk_aac bitrate: 192, channels: 2
+04:57:29 PM.348: ==== Recording Start ===============================================
+04:57:29 PM.348: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/user/Videos/2021-09-16 16-57-29.mkv'...
